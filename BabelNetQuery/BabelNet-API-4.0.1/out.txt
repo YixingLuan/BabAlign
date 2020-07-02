@@ -1,0 +1,1977 @@
+SL word: say
+	Translations FOR SYNSET bn:00093291v -- ID: bn:00093291v
+	Translations FOR SYNSET bn:00092425v -- ID: bn:00092425v
+	Translations FOR SYNSET WIKT:FA:نمایاندن‎ -- ID: bn:00093293v
+		>Sense: نمایاندن‎	 Source: WIKT
+		>Sense: نمودن‎	 Source: WIKT
+	Translations FOR SYNSET bn:01782576n -- ID: bn:01782576n
+	Translations FOR SYNSET OMWIKI:FA:گفتن -- ID: bn:00093287v
+		>Sense: دولت	 Source: WNTR
+		>Sense: گفتن	 Source: OMWIKI
+		>Sense: گفتن‎	 Source: WIKT
+	Translations FOR SYNSET BABELNET:FA:Say -- ID: bn:03576365n
+		>Sense: Say	 Source: BABELNET
+	Translations FOR SYNSET BABELNET:FA:In_Blue -- ID: bn:03503671n
+		>Sense: In_Blue	 Source: BABELNET
+	Translations FOR SYNSET bn:00087644v -- ID: bn:00087644v
+	Translations FOR SYNSET WIKI:FA:توماس_سای -- ID: bn:03461226n
+		>Sense: توماس_ساي	 Source: WIKIRED
+		>Sense: توماس_سای	 Source: WIKI
+		>Sense: توماس_سای	 Source: WIKIDATA
+		>Sense: Thomas_say	 Source: BABELNET
+	Translations FOR SYNSET BABELNET:FA:Say -- ID: bn:00635384n
+		>Sense: Say	 Source: BABELNET
+	Translations FOR SYNSET BABELNET:FA:Jean-baptiste_say -- ID: bn:03235680n
+		>Sense: ژان-باتیست_سه	 Source: WIKI
+		>Sense: ژان-بتیست_سه	 Source: WIKIDATA
+		>Sense: ژان-بتیست_سه	 Source: WIKIRED
+		>Sense: ژان-بتيست_سه	 Source: WIKIRED
+		>Sense: Jean-baptiste_say	 Source: BABELNET
+	Translations FOR SYNSET WIKI:FA:فرودگاه_سینا-آمپوگنانو -- ID: bn:01013083n
+		>Sense: فرودگاه_سينا-آمپوگنانو	 Source: WIKIRED
+		>Sense: فرودگاه_سینا-امپوگنانو	 Source: WIKIRED
+		>Sense: فرودگاه_سينا-امپوگنانو	 Source: WIKIRED
+		>Sense: فرودگاه_سینا-آمپوگنانو	 Source: WIKI
+		>Sense: فرودگاه_سینا-امپوگنانو	 Source: WIKIDATA
+		>Sense: فرودگاه_سینا-آمپوگنانو	 Source: WIKIDATA
+	Translations FOR SYNSET bn:00093290v -- ID: bn:00093290v
+	Translations FOR SYNSET bn:01104048n -- ID: bn:01104048n
+	Translations FOR SYNSET bn:16210504n -- ID: bn:16210504n
+	Translations FOR SYNSET bn:13634553r -- ID: bn:13634553r
+	Translations FOR SYNSET WIKT:FA:باز_خواندن‎ -- ID: bn:00093292v
+		>Sense: باز_خواندن‎	 Source: WIKT
+	Translations FOR SYNSET WNTR:FA:فرض_کنید -- ID: bn:00093288v
+		>Sense: فرض_کنید	 Source: WNTR
+	Translations FOR SYNSET bn:01007842n -- ID: bn:01007842n
+	Translations FOR SYNSET WIKI:FA:اوساکیس،_مینه‌سوتا -- ID: bn:00721974n
+		>Sense: اوساکیس،_مینه_سوتا	 Source: WIKIRED
+		>Sense: اوساكيس،_مينه_سوتا	 Source: WIKIRED
+		>Sense: اوساکیس،_مینه‌سوتا	 Source: WIKI
+		>Sense: اوساکیس،_مینه‌سوتا	 Source: WIKIDATA
+		>Sense: Osakis	 Source: BABELNET
+	Translations FOR SYNSET bn:08126277n -- ID: bn:08126277n
+	Translations FOR SYNSET BABELNET:FA:Say -- ID: bn:00672519n
+		>Sense: Say	 Source: BABELNET
+	Translations FOR SYNSET OMWN_FA:FA:ارائه_دادن -- ID: bn:00082527v
+		>Sense: بحق_دانستن	 Source: OMWN_FA
+		>Sense: اقامه_کردن	 Source: OMWN_FA
+		>Sense: ارائه_دادن	 Source: OMWN_FA
+	Translations FOR SYNSET bn:00093289v -- ID: bn:00093289v
+	Translations FOR SYNSET WIKT:FA:تلفظ_کردن -- ID: bn:00082800v
+		>Sense: صریحا_گفتن	 Source: OMWN_FA
+		>Sense: مژده_دادن	 Source: OMWN_FA
+		>Sense: گفتن‎	 Source: WIKT
+		>Sense: تلفظ_کردن	 Source: WIKT
+	Translations FOR SYNSET OMWN_FA:FA:اظهار -- ID: bn:00069438n
+		>Sense: گفتن	 Source: WNTR
+		>Sense: حرف	 Source: OMWN_FA
+		>Sense: اظهار	 Source: OMWN_FA
+	Translations FOR SYNSET bn:02915323n -- ID: bn:02915323n
+	Translations FOR SYNSET bn:01521610n -- ID: bn:01521610n
+	Translations FOR SYNSET bn:17756251n -- ID: bn:17756251n
+SL word: friday
+	Translations FOR SYNSET WIKIDATA:FA:linda_friday -- ID: bn:16256473n
+		>Sense: linda_friday	 Source: WIKIDATA
+	Translations FOR SYNSET bn:04585333n -- ID: bn:04585333n
+	Translations FOR SYNSET bn:17384927n -- ID: bn:17384927n
+	Translations FOR SYNSET WIKI:FA:جمعه_(فیلم_۱۹۹۵) -- ID: bn:00937942n
+		>Sense: جمعه_(فیلم_۱۹۹۵)	 Source: WIKI
+		>Sense: جمعه_(فیلم_1995)	 Source: WIKIRED
+		>Sense: جمعه_(فيلم_1995)	 Source: WIKIRED
+		>Sense: جمعه_(فيلم_۱۹۹۵)	 Source: WIKIRED
+		>Sense: جمعه_(فیلم_۱۹۹۵)	 Source: WIKIDATA
+		>Sense: Friday	 Source: BABELNET
+	Translations FOR SYNSET bn:02198754n -- ID: bn:02198754n
+	Translations FOR SYNSET WIKI:FA:جمعه -- ID: bn:00036512n
+		>Sense: جمعه	 Source: WNTR
+		>Sense: ناهیدشید	 Source: WIKIRED
+		>Sense: ادینه	 Source: WIKIRED
+		>Sense: آدينه	 Source: WIKIRED
+		>Sense: جمعه	 Source: WIKT
+		>Sense: آدینه	 Source: WIKT
+		>Sense: ادينه	 Source: WIKIRED
+		>Sense: جمعه	 Source: WIKIQU
+		>Sense: جمعه	 Source: WIKI
+		>Sense: ناهيدشيد	 Source: WIKIRED
+		>Sense: آدینه	 Source: WIKIDATA
+		>Sense: آدینه	 Source: WIKIRED
+		>Sense: جمعه	 Source: WIKITR
+		>Sense: یوم_الجمعه	 Source: WIKIRED
+	Translations FOR SYNSET bn:16503204n -- ID: bn:16503204n
+	Translations FOR SYNSET bn:13768590r -- ID: bn:13768590r
+	Translations FOR SYNSET BABELNET:FA:Friday -- ID: bn:02470759n
+		>Sense: Friday	 Source: BABELNET
+	Translations FOR SYNSET bn:03425318n -- ID: bn:03425318n
+	Translations FOR SYNSET bn:01749999n -- ID: bn:01749999n
+	Translations FOR SYNSET bn:02574277n -- ID: bn:02574277n
+	Translations FOR SYNSET bn:00137884n -- ID: bn:00137884n
+	Translations FOR SYNSET WIKI:FA:جمعه_(فیلم_۲۰۱۲) -- ID: bn:02964038n
+		>Sense: جمعه_(فيلم_۲۰۱۲)	 Source: WIKIRED
+		>Sense: جمعه_(فیلم_۲۰۱۲)	 Source: WIKIDATA
+		>Sense: جمعه_(فیلم_2012)	 Source: WIKIRED
+		>Sense: جمعه_(فیلم_۲۰۱۲)	 Source: WIKI
+	Translations FOR SYNSET bn:16295533n -- ID: bn:16295533n
+	Translations FOR SYNSET bn:03490574n -- ID: bn:03490574n
+	Translations FOR SYNSET bn:00763584n -- ID: bn:00763584n
+	Translations FOR SYNSET bn:01894627n -- ID: bn:01894627n
+	Translations FOR SYNSET bn:21706488n -- ID: bn:21706488n
+	Translations FOR SYNSET bn:17667393n -- ID: bn:17667393n
+SL word: investigation
+	Translations FOR SYNSET OMWN_FA:FA:پژوهش -- ID: bn:00067280n
+		>Sense: پژوهش	 Source: OMWIKI
+		>Sense: تحقیق	 Source: OMWIKI
+		>Sense: تحقیقات	 Source: WNTR
+		>Sense: تتبع	 Source: OMWN_FA
+		>Sense: پژوهش	 Source: OMWN_FA
+		>Sense: کاوش	 Source: OMWN_FA
+		>Sense: تجسس	 Source: OMWN_FA
+		>Sense: پژوهشگران	 Source: WIKIDATA
+		>Sense: روش‌های_تحقیق	 Source: WIKIDATA
+		>Sense: روش_های_تحقیق	 Source: WIKIDATA
+		>Sense: پژوهش‌گر	 Source: WIKIRED
+		>Sense: جستار	 Source: WIKIRED
+		>Sense: تحقیق	 Source: WIKIDATA
+		>Sense: پژوهشگر	 Source: WIKIDATA
+		>Sense: پژوهش	 Source: WIKIDATA
+		>Sense: محققان	 Source: WIKITR
+		>Sense: پژوهش	 Source: WIKITR
+		>Sense: تحقیق	 Source: WIKT
+		>Sense: پژوهش	 Source: WIKT
+		>Sense: روش_تحقيق	 Source: WIKIRED
+		>Sense: روش_هاي_تحقيق	 Source: WIKIRED
+		>Sense: تحقیق	 Source: WIKIRED
+		>Sense: روش‌های_تحقیق	 Source: WIKIRED
+		>Sense: روش_تحقیق	 Source: WIKIRED
+		>Sense: پژوهشگران	 Source: WIKIRED
+		>Sense: محقق	 Source: WIKIRED
+		>Sense: روش_تحقیق	 Source: WIKIDATA
+		>Sense: پژوهشگر	 Source: WIKIRED
+		>Sense: روش_های_تحقیق	 Source: WIKIRED
+		>Sense: پژوهش	 Source: WIKI
+		>Sense: تحقيق	 Source: WIKIRED
+		>Sense: محقق	 Source: WIKIDATA
+	Translations FOR SYNSET bn:14711239n -- ID: bn:14711239n
+	Translations FOR SYNSET bn:00620677n -- ID: bn:00620677n
+	Translations FOR SYNSET WNTR:FA:بررسی -- ID: bn:00047354n
+		>Sense: بررسی	 Source: WNTR
+	Translations FOR SYNSET OMWN_FA:FA:تحقیق -- ID: bn:00047355n
+		>Sense: تحقیق	 Source: OMWN_FA
+		>Sense: نیشتر	 Source: OMWN_FA
+SL word: atlanta
+	Translations FOR SYNSET BABELNET:FA:Atlanta -- ID: bn:00247140n
+		>Sense: Atlanta	 Source: BABELNET
+	Translations FOR SYNSET bn:01284931n -- ID: bn:01284931n
+	Translations FOR SYNSET BABELNET:FA:Atlanta -- ID: bn:00318501n
+		>Sense: Atlanta	 Source: BABELNET
+	Translations FOR SYNSET bn:00379158n -- ID: bn:00379158n
+	Translations FOR SYNSET bn:03354208n -- ID: bn:03354208n
+	Translations FOR SYNSET WIKIDATA:FA:آتلانتا -- ID: bn:17662100n
+		>Sense: آتلانتا	 Source: WIKIDATA
+	Translations FOR SYNSET bn:03131402n -- ID: bn:03131402n
+	Translations FOR SYNSET bn:00602301n -- ID: bn:00602301n
+	Translations FOR SYNSET bn:01628455n -- ID: bn:01628455n
+	Translations FOR SYNSET WIKI:FA:آتلانتا،_نبراسکا -- ID: bn:00399286n
+		>Sense: اتلانتا،_نبراسکا	 Source: WIKIRED
+		>Sense: اتلانتا،_نبراسكا	 Source: WIKIRED
+		>Sense: آتلانتا،_نبراسکا	 Source: WIKI
+		>Sense: آتلانتا،_نبراسكا	 Source: WIKIRED
+		>Sense: آتلانتا،_نبراسکا	 Source: WIKIDATA
+		>Sense: Atlanta	 Source: BABELNET
+	Translations FOR SYNSET bn:02563259n -- ID: bn:02563259n
+	Translations FOR SYNSET WIKI:FA:آتلانتا،_ایلینوی -- ID: bn:00237820n
+		>Sense: آتلانتا،_ایلینوی	 Source: WIKIDATA
+		>Sense: آتلانتا،_ايلينوي	 Source: WIKIRED
+		>Sense: آتلانتا،_ایلینوی	 Source: WIKI
+		>Sense: اتلانتا،_ايلينوي	 Source: WIKIRED
+		>Sense: اتلانتا،_ایلینوی	 Source: WIKIRED
+		>Sense: Atlanta	 Source: BABELNET
+	Translations FOR SYNSET WIKI:FA:آتلانتا،_تگزاس -- ID: bn:00558461n
+		>Sense: آتلانتا،_تگزاس	 Source: WIKIDATA
+		>Sense: آتلانتا،_تگزاس	 Source: WIKI
+		>Sense: اتلانتا،_تگزاس	 Source: WIKIRED
+		>Sense: اتلانتا،_تگزاس	 Source: WIKIDATA
+		>Sense: Atlanta	 Source: BABELNET
+	Translations FOR SYNSET bn:02140557n -- ID: bn:02140557n
+	Translations FOR SYNSET GEONM:FA:آتلانتا -- ID: bn:00006771n
+		>Sense: آتلانتا	 Source: GEONM
+		>Sense: آتلانتا	 Source: OMWIKI
+		>Sense: آتلانتا،_جورجيا	 Source: WIKIRED
+		>Sense: آتلانتا،_جورجیا	 Source: WIKIRED
+		>Sense: آتلانتا	 Source: WIKI
+		>Sense: اتلانتا،_جورجيا	 Source: WIKIRED
+		>Sense: اتلانتا	 Source: WIKIRED
+		>Sense: اتلانتا،_جورجیا	 Source: WIKIRED
+		>Sense: آتلانتا	 Source: WIKIDATA
+		>Sense: اتلانتا	 Source: WIKIDATA
+		>Sense: آتلانتا،	 Source: WNTR
+		>Sense: آتلانتا	 Source: WNTR
+		>Sense: Atlanta	 Source: BABELNET
+	Translations FOR SYNSET BABELNET:FA:Atlanta -- ID: bn:00357229n
+		>Sense: Atlanta	 Source: BABELNET
+	Translations FOR SYNSET WNTR:FA:نبرد_آتلانتا -- ID: bn:00006772n
+		>Sense: نبرد_آتلانتا	 Source: WNTR
+	Translations FOR SYNSET WIKI:FA:سافک،_ویرجینیا -- ID: bn:03571207n
+		>Sense: سافک،_ویرجینیا	 Source: WIKIDATA
+		>Sense: سافک،_ویرجینیا	 Source: WIKI
+		>Sense: سافك،_ويرجينيا	 Source: WIKIRED
+		>Sense: سافک،_ویرجینیا	 Source: GEONM
+		>Sense: Suffolk	 Source: BABELNET
+	Translations FOR SYNSET bn:03253942n -- ID: bn:03253942n
+SL word: recent
+	Translations FOR SYNSET OMWN_FA:FA:اخیر -- ID: bn:00105752a
+		>Sense: جدید	 Source: OMWN_FA
+		>Sense: جدیدالتاسیس	 Source: OMWN_FA
+		>Sense: متاخر	 Source: OMWN_FA
+		>Sense: اخیر	 Source: OMWN_FA
+	Translations FOR SYNSET OMWN_FA:FA:اخیر -- ID: bn:00109521a
+		>Sense: اخیر	 Source: OMWN_FA
+		>Sense: جدید	 Source: OMWN_FA
+		>Sense: متاخر	 Source: OMWN_FA
+		>Sense: جدیدالتاسیس	 Source: OMWN_FA
+	Translations FOR SYNSET WIKI:FA:هولوسن -- ID: bn:00044446n
+		>Sense: هولوسن_دوره	 Source: WNTR
+		>Sense: اخیر	 Source: WNTR
+		>Sense: وابسته_به_دوره_زمینشناسی_حاضر_که_از_پایان_دوره_پلیستوسن_شروع_میگردد	 Source: WNTR
+		>Sense: عصر_اخیر	 Source: WNTR
+		>Sense: هولوسن	 Source: WIKI
+		>Sense: هولوسن	 Source: WIKIDATA
+		>Sense: هولوسین	 Source: WIKIRED
+		>Sense: هولوسین	 Source: WIKIDATA
+		>Sense: هولوسين	 Source: WIKIRED
+SL word: produce
+	Translations FOR SYNSET bn:07749612n -- ID: bn:07749612n
+	Translations FOR SYNSET WIKT:FA:ساختن‎ -- ID: bn:00084198v
+		>Sense: ساخت	 Source: WNTR
+		>Sense: ساخت	 Source: WNTR
+		>Sense: ساختن‎	 Source: WIKT
+	Translations FOR SYNSET WIKT:FA:ساختن‎ -- ID: bn:00086013v
+		>Sense: تولید	 Source: WNTR
+		>Sense: را	 Source: WNTR
+		>Sense: ساختن‎	 Source: WIKT
+	Translations FOR SYNSET WNTR:FA:تولید -- ID: bn:00084069v
+		>Sense: تولید	 Source: WNTR
+	Translations FOR SYNSET OMWN_FA:FA:محصول -- ID: bn:00037326n
+		>Sense: کامیون_باغ	 Source: WNTR
+		>Sense: مغازه_سبز	 Source: WNTR
+		>Sense: محصول	 Source: OMWN_FA
+		>Sense: محصول	 Source: WNTR
+		>Sense: مواد_غذایی_سبز	 Source: WNTR
+		>Sense: تولید_باغ،	 Source: WIKITR
+		>Sense: تولید	 Source: WIKITR
+	Translations FOR SYNSET bn:00082278v -- ID: bn:00082278v
+	Translations FOR SYNSET WNTR:FA:بالا_بردن -- ID: bn:00088042v
+		>Sense: بالا_بردن	 Source: WNTR
+	Translations FOR SYNSET bn:00607414n -- ID: bn:00607414n
+	Translations FOR SYNSET OMWN_FA:FA:ایجاد_کردن -- ID: bn:00084699v
+		>Sense: ایجاد_کردن	 Source: OMWN_FA
+		>Sense: سبب_شدن	 Source: OMWN_FA
+		>Sense: را	 Source: WNTR
+	Translations FOR SYNSET OMWN_FA:FA:ادامه_دادن -- ID: bn:00084094v
+		>Sense: ادامه_دادن	 Source: OMWN_FA
+	Translations FOR SYNSET WIKT:FA:تولید‎ -- ID: bn:00084082v
+		>Sense: تولید‎	 Source: WIKT
+		>Sense: تولید	 Source: WNTR
+	Translations FOR SYNSET bn:00084081v -- ID: bn:00084081v
+SL word: evidence
+	Translations FOR SYNSET bn:01208575n -- ID: bn:01208575n
+	Translations FOR SYNSET WIKI:FA:مرا_بخور،_مرا_بنوش -- ID: bn:03793441n
+		>Sense: مرا_بخور،_مرا_بياشام	 Source: WIKIRED
+		>Sense: مرا_بخور،_مرا_بنوش	 Source: WIKI
+		>Sense: مرا_بخور،_مرا_بنوش	 Source: WIKIDATA
+		>Sense: مرا_بخور،_مرا_بیاشام	 Source: WIKIRED
+		>Sense: Eat_Me,_Drink_Me	 Source: BABELNET
+	Translations FOR SYNSET BABELNET:FA:evidence -- ID: bn:02792908n
+		>Sense: evidence	 Source: BABELNET
+	Translations FOR SYNSET bn:02465292n -- ID: bn:02465292n
+	Translations FOR SYNSET bn:14743862n -- ID: bn:14743862n
+	Translations FOR SYNSET WNTR:FA:نشانه -- ID: bn:00053450n
+		>Sense: نشانه	 Source: WNTR
+	Translations FOR SYNSET bn:14513081n -- ID: bn:14513081n
+	Translations FOR SYNSET bn:00553489n -- ID: bn:00553489n
+	Translations FOR SYNSET bn:03236670n -- ID: bn:03236670n
+	Translations FOR SYNSET bn:02609216n -- ID: bn:02609216n
+	Translations FOR SYNSET WIKI:FA:مدرک_(فیلم_۲۰۱۳) -- ID: bn:16498015n
+		>Sense: مدرک_(فیلم_۲۰۱۳)	 Source: WIKI
+		>Sense: مدرک_(فیلم_2013)	 Source: WIKIRED
+		>Sense: مدرک	 Source: WIKIDATA
+	Translations FOR SYNSET bn:17833721n -- ID: bn:17833721n
+	Translations FOR SYNSET bn:16132891n -- ID: bn:16132891n
+	Translations FOR SYNSET bn:00693674n -- ID: bn:00693674n
+	Translations FOR SYNSET OMWN_FA:FA:شهادت_دادن -- ID: bn:00087777v
+		>Sense: شهادت_دادن	 Source: OMWN_FA
+	Translations FOR SYNSET bn:15919340n -- ID: bn:15919340n
+	Translations FOR SYNSET bn:02872641n -- ID: bn:02872641n
+	Translations FOR SYNSET OMWIKI:FA:شهادت_دادن -- ID: bn:00083245v
+		>Sense: نشان_می_دهد	 Source: WNTR
+		>Sense: شهادت_دادن	 Source: OMWIKI
+	Translations FOR SYNSET OMWN_FA:FA:اشکار_ساختن -- ID: bn:00082913v
+		>Sense: اشکار_ساختن	 Source: OMWN_FA
+	Translations FOR SYNSET WIKI:FA:ادله_اثبات_دعوی -- ID: bn:00032047n
+		>Sense: مدرك‌	 Source: OMWIKI
+		>Sense: شهادت_نامه	 Source: WIKIRED
+		>Sense: ادله_اثبات_دعوی	 Source: WIKIDATA
+		>Sense: ادلهٔ_اثبات_دعوی	 Source: WIKIRED
+		>Sense: ادله_اثبات_دعوي	 Source: WIKIRED
+		>Sense: مدعی_علیه	 Source: WIKIRED
+		>Sense: ادله_اثبات_دعوی	 Source: WIKI
+		>Sense: مدعی	 Source: WIKIRED
+		>Sense: ادلهٔ_اثبات_دعوي	 Source: WIKIRED
+		>Sense: ادله_اثبات_جرم	 Source: WIKIRED
+		>Sense: شواهد	 Source: WIKITR
+		>Sense: اقرار	 Source: WIKIRED
+		>Sense: گواه	 Source: OMWN_FA
+		>Sense: شواهد	 Source: WNTR
+	Translations FOR SYNSET bn:00032046n -- ID: bn:00032046n
+	Translations FOR SYNSET BABELNET:FA:evidence -- ID: bn:03296475n
+		>Sense: evidence	 Source: BABELNET
+	Translations FOR SYNSET OMWN_FA:FA:گواهی -- ID: bn:00032045n
+		>Sense: شواهد	 Source: WIKITR
+		>Sense: گواهی	 Source: OMWN_FA
+		>Sense: شواهد	 Source: WNTR
+	Translations FOR SYNSET WIKITR:FA:شواهد -- ID: bn:03246594n
+		>Sense: شواهد	 Source: WIKITR
+SL word: irregularity
+	Translations FOR SYNSET WNTR:FA:بی_نظمی_هندسی -- ID: bn:00040178n
+		>Sense: بی_نظمی_هندسی	 Source: WNTR
+	Translations FOR SYNSET WIKITR:FA:مانع_متعارف -- ID: bn:00000350n
+		>Sense: مانع_متعارف	 Source: WIKITR
+	Translations FOR SYNSET OMWN_FA:FA:یبوست -- ID: bn:00022047n
+		>Sense: یبوست	 Source: OMWN_FA
+		>Sense: یبوست	 Source: WIKI
+		>Sense: یبوست	 Source: WIKIDATA
+		>Sense: يبوست	 Source: WIKIRED
+		>Sense: یبوست	 Source: WIKITR
+	Translations FOR SYNSET WNTR:FA:unregularity -- ID: bn:00047549n
+		>Sense: unregularity	 Source: WNTR
+SL word: take_place
+	Translations FOR SYNSET OMWN_FA:FA:به_انجام_رسیدن -- ID: bn:00085337v
+		>Sense: خطور_کردن	 Source: OMWN_FA
+		>Sense: به_انجام_رسیدن	 Source: OMWN_FA
+		>Sense: رخ_می_دهد	 Source: WNTR
+SL word: jury
+	Translations FOR SYNSET bn:17970869n -- ID: bn:17970869n
+	Translations FOR SYNSET WIKT:FA:ژوری‎ -- ID: bn:14152850n
+		>Sense: juried	 Source: WIKITR
+		>Sense: ژوری‎	 Source: WIKT
+	Translations FOR SYNSET OMWN_FA:FA:هیئت_منصفه -- ID: bn:00048659n
+		>Sense: ژوری	 Source: OMWN_FA
+		>Sense: هیئت_منصفه	 Source: OMWN_FA
+	Translations FOR SYNSET OMWN_FA:FA:هیئت_منصفه -- ID: bn:00048658n
+		>Sense: هیئت_منصفه	 Source: WNTR
+		>Sense: ژوری	 Source: OMWN_FA
+		>Sense: هیئت_منصفه	 Source: OMWN_FA
+		>Sense: هیئت_منصفه	 Source: WIKIDATA
+		>Sense: داور	 Source: WIKITR
+		>Sense: هیئت_منصفه	 Source: WIKITR
+		>Sense: داوران	 Source: WIKITR
+		>Sense: ژوری	 Source: WIKT
+	Translations FOR SYNSET bn:06516002n -- ID: bn:06516002n
+	Translations FOR SYNSET bn:13731081a -- ID: bn:13731081a
+	Translations FOR SYNSET bn:13754621v -- ID: bn:13754621v
+	Translations FOR SYNSET bn:00534314n -- ID: bn:00534314n
+	Translations FOR SYNSET bn:02201732n -- ID: bn:02201732n
+	Translations FOR SYNSET BABELNET:FA:jury -- ID: bn:00823148n
+		>Sense: jury	 Source: BABELNET
+SL word: term
+	Translations FOR SYNSET WIKT:FA:جمله‎ -- ID: bn:01599279n
+		>Sense: جمله‎	 Source: WIKT
+	Translations FOR SYNSET WIKI:FA:اصطلاح‌شناسی -- ID: bn:00049915n
+		>Sense: واژگان	 Source: WNTR
+		>Sense: مجموعه_لغات	 Source: OMWN_FA
+		>Sense: نام_گذاری	 Source: WNTR
+		>Sense: واژگان	 Source: OMWN_FA
+		>Sense: كنايه	 Source: WIKIRED
+		>Sense: ترم_شناسي	 Source: WIKIRED
+		>Sense: ترم_شناسی	 Source: WIKIRED
+		>Sense: اصطلاحات	 Source: WIKITR
+		>Sense: نامگذاری_علمی	 Source: WIKITR
+		>Sense: اصطلاح‌شناسی	 Source: WIKIDATA
+		>Sense: اصطلاح‌شناسی	 Source: WIKI
+		>Sense: اصطلاح_شناسی	 Source: WIKIRED
+		>Sense: ترم‌شناسی	 Source: WIKIRED
+		>Sense: اصطلاح_شناسي	 Source: WIKIRED
+		>Sense: نام_علمی	 Source: WIKITR
+		>Sense: نامگذاری	 Source: WIKITR
+		>Sense: مدت	 Source: WIKITR
+	Translations FOR SYNSET bn:00094878v -- ID: bn:00094878v
+	Translations FOR SYNSET OMWN_FA:FA:جلسه -- ID: bn:00000561n
+		>Sense: ترم	 Source: WNTR
+		>Sense: جلسه	 Source: WNTR
+		>Sense: جلسه_دانشگاهی	 Source: WNTR
+		>Sense: اصطلاح_مدرسه	 Source: WNTR
+		>Sense: جلسه	 Source: OMWN_FA
+		>Sense: ترم	 Source: WIKITR
+		>Sense: تقویم_دانشگاهی	 Source: WIKITR
+		>Sense: ترم	 Source: WIKITR
+		>Sense: زمستر	 Source: WIKIRED
+		>Sense: نيم_سال_تحصيلي	 Source: WIKIRED
+		>Sense: نیم_سال_تحصیلی	 Source: WIKI
+		>Sense: زمستر	 Source: WIKIDATA
+	Translations FOR SYNSET WIKITR:FA:برنامه_ترمینال -- ID: bn:14446845n
+		>Sense: شبیه_ساز_ترمینال	 Source: WIKITR
+		>Sense: برنامه_ترمینال	 Source: WIKITR
+	Translations FOR SYNSET WNTR:FA:شکل_ترمینال -- ID: bn:00076591n
+		>Sense: شکل_ترمینال	 Source: WNTR
+	Translations FOR SYNSET bn:00076590n -- ID: bn:00076590n
+	Translations FOR SYNSET MSTERM:FA:شرط -- ID: bn:00021649n
+		>Sense: مدت_ضمنی	 Source: WIKITR
+		>Sense: شرط	 Source: MSTERM
+	Translations FOR SYNSET MSTERM:FA:قرار_ملاقات -- ID: bn:00076588n
+		>Sense: مدت	 Source: WNTR
+		>Sense: قرار_ملاقات	 Source: MSTERM
+		>Sense: کوتاه_مدت	 Source: WIKITR
+	Translations FOR SYNSET WIKT:FA:اصطلاح‎ -- ID: bn:15290634n
+		>Sense: اصطلاح‎	 Source: WIKT
+		>Sense: واژه_علمی	 Source: WIKIDATA
+		>Sense: عبارت	 Source: WIKIDATA
+		>Sense: دانش_واژه	 Source: WIKIDATA
+	Translations FOR SYNSET bn:00076587n -- ID: bn:00076587n
+	Translations FOR SYNSET WIKI:FA:جمله_(ریاضیات) -- ID: bn:00076589n
+		>Sense: جمله	 Source: WIKIDATA
+		>Sense: جمله_(رياضيات)	 Source: WIKIRED
+		>Sense: جمله_(ریاضیات)	 Source: WIKI
+		>Sense: مدت	 Source: WIKITR
+	Translations FOR SYNSET WNTR:FA:ترم -- ID: bn:00036780n
+		>Sense: ترم	 Source: WNTR
+	Translations FOR SYNSET bn:02949144n -- ID: bn:02949144n
+SL word: end
+	Translations FOR SYNSET bn:17111891n -- ID: bn:17111891n
+	Translations FOR SYNSET WIKITR:FA:endomorphisms -- ID: bn:03854526n
+		>Sense: رویش_از_روپوست	 Source: WIKITR
+		>Sense: endomorphisms	 Source: WIKITR
+	Translations FOR SYNSET WNTR:FA:پایان -- ID: bn:00030718n
+		>Sense: پایان	 Source: WNTR
+	Translations FOR SYNSET bn:00087609v -- ID: bn:00087609v
+	Translations FOR SYNSET bn:05081568n -- ID: bn:05081568n
+	Translations FOR SYNSET bn:01202497n -- ID: bn:01202497n
+	Translations FOR SYNSET WIKT:FA:تمام_کردن -- ID: bn:00030722n
+		>Sense: تمام_کردن	 Source: WIKT
+		>Sense: پایان	 Source: WNTR
+	Translations FOR SYNSET bn:00030724n -- ID: bn:00030724n
+	Translations FOR SYNSET bn:00087610v -- ID: bn:00087610v
+	Translations FOR SYNSET bn:00030726n -- ID: bn:00030726n
+	Translations FOR SYNSET OMWN_FA:FA:اثار -- ID: bn:00030728n
+		>Sense: بقیه	 Source: OMWN_FA
+		>Sense: اثار	 Source: OMWN_FA
+		>Sense: چیز_باقیمانده	 Source: OMWN_FA
+		>Sense: باقی_مانده	 Source: OMWN_FA
+		>Sense: مانده	 Source: OMWN_FA
+	Translations FOR SYNSET WIKI:FA:گره -- ID: bn:00049367n
+		>Sense: گره	 Source: WIKI
+		>Sense: گره_(ريسمان)	 Source: WIKIRED
+		>Sense: گره_(ریسمان)	 Source: WIKIRED
+		>Sense: گره	 Source: WIKITR
+		>Sense: گره	 Source: WIKITR
+		>Sense: پایان_کار	 Source: WIKITR
+		>Sense: گره	 Source: WIKIDATA
+	Translations FOR SYNSET WIKITR:FA:endoglin -- ID: bn:03524838n
+		>Sense: endoglin	 Source: WIKITR
+	Translations FOR SYNSET OMWN_FA:FA:تمام_کردن -- ID: bn:00084711v
+		>Sense: گرفتن	 Source: OMWN_FA
+		>Sense: موقوف_شدن	 Source: OMWN_FA
+		>Sense: دست_کشیدن	 Source: OMWN_FA
+		>Sense: تمام_کردن	 Source: OMWN_FA
+		>Sense: پایان	 Source: WNTR
+	Translations FOR SYNSET WIKIDATA:FA:پایگاه_نیرو_هوایی_ونس -- ID: bn:01638559n
+		>Sense: پایگاه_نیرو_هوایی_ونس	 Source: WIKIRED
+		>Sense: پایگاه_نیرو_هوایی_ونس	 Source: WIKIDATA
+		>Sense: پایگاه_نیروی_هوایی_ونس	 Source: WIKI
+		>Sense: پايگاه_نيرو_هوايي_ونس	 Source: WIKIRED
+	Translations FOR SYNSET bn:02759059n -- ID: bn:02759059n
+	Translations FOR SYNSET WNTR:FA:مرحله_نهایی -- ID: bn:00030720n
+		>Sense: مرحله_نهایی	 Source: WNTR
+		>Sense: پایان	 Source: WNTR
+	Translations FOR SYNSET bn:03105867n -- ID: bn:03105867n
+	Translations FOR SYNSET OMWN_FA:FA:انهدام -- ID: bn:00025588n
+		>Sense: ویرانی	 Source: OMWN_FA
+		>Sense: انهدام	 Source: OMWN_FA
+		>Sense: تخریب	 Source: OMWN_FA
+		>Sense: خرابی	 Source: OMWN_FA
+		>Sense: پایان	 Source: WNTR
+	Translations FOR SYNSET bn:00030729n -- ID: bn:00030729n
+	Translations FOR SYNSET WNTR:FA:خاتمه -- ID: bn:00087608v
+		>Sense: خاتمه	 Source: WNTR
+		>Sense: پایان_دادن	 Source: WNTR
+	Translations FOR SYNSET WNTR:FA:پایان -- ID: bn:00030719n
+		>Sense: پایان	 Source: WNTR
+	Translations FOR SYNSET WIKI:FA:بن‌بست -- ID: bn:00019919n
+		>Sense: culs-de-sac	 Source: WIKITR
+		>Sense: culs-de-sac،	 Source: WIKITR
+		>Sense: کوچه_بن_د_کیسه	 Source: WIKITR
+		>Sense: بن‌گرد	 Source: WIKIRED
+		>Sense: بن‌بست	 Source: WIKI
+		>Sense: بن_بست	 Source: WIKIRED
+		>Sense: بن‌بست	 Source: WIKIDATA
+		>Sense: بن_گرد	 Source: WIKIRED
+	Translations FOR SYNSET bn:17864108n -- ID: bn:17864108n
+	Translations FOR SYNSET WIKITR:FA:ارزش_ابزاری -- ID: bn:00239754n
+		>Sense: ارزش_ابزاری	 Source: WIKITR
+	Translations FOR SYNSET bn:03544130n -- ID: bn:03544130n
+	Translations FOR SYNSET WIKT:FA:هدف‎ -- ID: bn:00030721n
+		>Sense: پایان	 Source: WNTR
+		>Sense: هدف	 Source: WNTR
+		>Sense: هدف	 Source: WIKITR
+		>Sense: هدف‎	 Source: WIKT
+	Translations FOR SYNSET bn:00030723n -- ID: bn:00030723n
+	Translations FOR SYNSET bn:00030725n -- ID: bn:00030725n
+	Translations FOR SYNSET bn:00030727n -- ID: bn:00030727n
+SL word: group
+	Translations FOR SYNSET WIKI:FA:استخلاف -- ID: bn:03875904n
+		>Sense: تعویض	 Source: WIKITR
+		>Sense: استخلاف	 Source: WIKI
+		>Sense: استخلاف	 Source: WIKIDATA
+		>Sense: جایگزین	 Source: WIKITR
+	Translations FOR SYNSET WIKIDATA:FA:واحد_زمین‌شناسی -- ID: bn:17081477n
+		>Sense: واحد_زمین‌شناسی	 Source: WIKIRED
+		>Sense: واحد_زمين_شناسي	 Source: WIKIRED
+		>Sense: گروه	 Source: WIKITR
+		>Sense: گروه_زمین_شناسی	 Source: WIKITR
+		>Sense: بخش_(چینه‌شناسی)	 Source: WIKIRED
+		>Sense: واحد_چینه‌شناسی	 Source: WIKI
+		>Sense: واحد_زمین‌شناسی	 Source: WIKIDATA
+		>Sense: واحد_زمین_شناسی	 Source: WIKIRED
+		>Sense: عضو	 Source: WIKITR
+	Translations FOR SYNSET bn:06286801n -- ID: bn:06286801n
+	Translations FOR SYNSET OMWN_FA:FA:جمع_شدن -- ID: bn:00089079v
+		>Sense: جمع_شدن	 Source: OMWN_FA
+	Translations FOR SYNSET OMWN_FA:FA:گروه -- ID: bn:00018111n
+		>Sense: شیمیایی_گروه	 Source: WNTR
+		>Sense: انجمن	 Source: OMWN_FA
+		>Sense: گروه	 Source: OMWN_FA
+		>Sense: دسته	 Source: OMWN_FA
+		>Sense: گروه_عاملی	 Source: OMWIKI
+		>Sense: گروه_عاملی	 Source: WIKI
+		>Sense: گروه_عاملي	 Source: WIKIRED
+		>Sense: گروه_هاي_عاملي	 Source: WIKIRED
+		>Sense: گروه‌های_عاملی	 Source: WIKIRED
+		>Sense: گروه_عاملی	 Source: WIKIDATA
+		>Sense: گروه‌های_عناصر	 Source: WIKIRED
+		>Sense: گروه_(جدول_تناوبي)	 Source: WIKIRED
+		>Sense: گروه_شيميايي	 Source: WIKIRED
+		>Sense: شیمی_سری	 Source: WIKITR
+		>Sense: شیمیایی	 Source: WIKITR
+		>Sense: گروه_های_عاملی	 Source: WIKIRED
+		>Sense: گروه_هاي_عناصر	 Source: WIKIRED
+		>Sense: گروه_جدول_تناوبي	 Source: WIKIRED
+		>Sense: گروه_هاي_جدول_تناوبي	 Source: WIKIRED
+		>Sense: گروه‌های_جدول_تناوبی	 Source: WIKI
+		>Sense: گروه‌هاي_جدول_تناوبي	 Source: WIKIRED
+		>Sense: گروه_(جدول_تناوبی)	 Source: WIKIRED
+		>Sense: گروه_های_جدول_تناوبی	 Source: WIKIRED
+		>Sense: گروه‌های_عامل	 Source: WIKIRED
+		>Sense: گروه_های_عناصر	 Source: WIKIRED
+		>Sense: گروه_شیمیایی	 Source: WIKIRED
+		>Sense: گروه_جدول_تناوبی	 Source: WIKIRED
+		>Sense: گروه‌های_عامل	 Source: WIKIDATA
+		>Sense: گروه_هاي_عامل	 Source: WIKIRED
+		>Sense: گروه_های_جدول_تناوبی	 Source: WIKIDATA
+		>Sense: گروه_جدول_تناوبی	 Source: WIKIDATA
+		>Sense: گروه	 Source: WIKIDATA
+		>Sense: گروه_شیمیایی	 Source: WIKIDATA
+		>Sense: گروه‌های_عناصر	 Source: WIKIDATA
+		>Sense: گروه‌های_جدول_تناوبی	 Source: WIKIDATA
+		>Sense: گروه	 Source: WIKITR
+		>Sense: گروه_شیمیایی	 Source: WIKITR
+		>Sense: گروه_های_عامل	 Source: WIKIRED
+		>Sense: نصفه	 Source: WIKITR
+		>Sense: گروه_عاملی‎	 Source: WIKT
+		>Sense: گروه_جدول	 Source: WIKITR
+		>Sense: گروه	 Source: MSTERM
+	Translations FOR SYNSET bn:04164214n -- ID: bn:04164214n
+	Translations FOR SYNSET MSTERM:FA:گروه -- ID: bn:00013875n
+		>Sense: اسباب_سفر	 Source: WNTR
+		>Sense: گروه	 Source: MSTERM
+	Translations FOR SYNSET bn:01102027n -- ID: bn:01102027n
+	Translations FOR SYNSET OMWN_FA:FA:جمع_شدن -- ID: bn:00082465v
+		>Sense: جمع_شدن	 Source: OMWN_FA
+	Translations FOR SYNSET WIKIDATA:FA:گروه_موسیقی -- ID: bn:00068051n
+		>Sense: گروه_راک	 Source: WNTR
+		>Sense: راک	 Source: WNTR
+		>Sense: گروه_راک_پاپ	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه	 Source: WIKITR
+		>Sense: هنرمند_انفرادی	 Source: WIKITR
+		>Sense: گروه_های_موسیقی	 Source: WIKIDATA
+		>Sense: گروههای_موسیقی	 Source: WIKIDATA
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_راک	 Source: WIKITR
+		>Sense: گروه‌های_موسیقی	 Source: WIKIDATA
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_راک	 Source: WIKITR
+		>Sense: گروه_پاپ	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: پروژه_انفرادی	 Source: WIKITR
+		>Sense: گروه‎	 Source: WIKT
+		>Sense: گروه‌هاي_موسيقي	 Source: WIKIRED
+		>Sense: بند_(موسیقی)	 Source: WIKIRED
+		>Sense: گروه_هاي_موسيقي	 Source: WIKIRED
+		>Sense: گروههاي_موسيقي	 Source: WIKIRED
+		>Sense: گروه_های_موسیقی	 Source: WIKIRED
+		>Sense: گروه_موسيقي	 Source: WIKIRED
+		>Sense: بند_(موسيقي)	 Source: WIKIRED
+		>Sense: گروه‌های_موسیقی	 Source: WIKIRED
+		>Sense: گروههای_موسیقی	 Source: WIKIRED
+		>Sense: گروه_موسیقی	 Source: WIKIDATA
+	Translations FOR SYNSET WIKITR:FA:گروه_رقم -- ID: bn:02152719n
+		>Sense: گروه_رقم	 Source: WIKITR
+	Translations FOR SYNSET bn:17871989n -- ID: bn:17871989n
+	Translations FOR SYNSET WIKI:FA:گروه_(چینه‌شناسی) -- ID: bn:01071456n
+		>Sense: گروه	 Source: WIKITR
+		>Sense: گروه	 Source: WIKIDATA
+		>Sense: گروه_(چینه_شناسی)	 Source: WIKIRED
+		>Sense: گروه_(چينه_شناسي)	 Source: WIKIRED
+		>Sense: گروه_(چینه‌شناسی)	 Source: WIKI
+		>Sense: گروه_(زمین‌شناسی)	 Source: WIKIRED
+		>Sense: گروه	 Source: MSTERM
+	Translations FOR SYNSET OMWN_FA:FA:گروه -- ID: bn:00041943n
+		>Sense: گروه_(ریاضی)	 Source: WIKI
+		>Sense: گروه	 Source: WIKITR
+		>Sense: گروه_(رياضي)	 Source: WIKIRED
+		>Sense: گروه_(ریاضی)	 Source: WIKIDATA
+		>Sense: گروه_ریاضی	 Source: WNTR
+		>Sense: جمعیت	 Source: OMWN_FA
+		>Sense: انجمن	 Source: OMWN_FA
+		>Sense: گروه	 Source: OMWN_FA
+		>Sense: دسته	 Source: OMWN_FA
+	Translations FOR SYNSET bn:14139607n -- ID: bn:14139607n
+	Translations FOR SYNSET WIKIDATA:FA:گروه_موسیقی -- ID: bn:00056461n
+		>Sense: سازمان_موسیقی	 Source: WNTR
+		>Sense: گروه_موسیقی	 Source: WNTR
+		>Sense: گروه_های_موسیقی	 Source: WIKIDATA
+		>Sense: گروههای_موسیقی	 Source: WIKIDATA
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_پاپ	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: پروژه_انفرادی	 Source: WIKITR
+		>Sense: گروه‌های_موسیقی	 Source: WIKIDATA
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه	 Source: WIKITR
+		>Sense: گروه_راک_پاپ	 Source: WIKITR
+		>Sense: هنرمند_انفرادی	 Source: WIKITR
+		>Sense: گروه‌هاي_موسيقي	 Source: WIKIRED
+		>Sense: بند_(موسیقی)	 Source: WIKIRED
+		>Sense: گروه_هاي_موسيقي	 Source: WIKIRED
+		>Sense: گروههاي_موسيقي	 Source: WIKIRED
+		>Sense: گروه_های_موسیقی	 Source: WIKIRED
+		>Sense: گروه_موسيقي	 Source: WIKIRED
+		>Sense: بند_(موسيقي)	 Source: WIKIRED
+		>Sense: گروه‌های_موسیقی	 Source: WIKIRED
+		>Sense: گروههای_موسیقی	 Source: WIKIRED
+		>Sense: گروه_موسیقی	 Source: WIKIDATA
+	Translations FOR SYNSET WIKIDATA:FA:گروهی_از_اجسام -- ID: bn:13598833n
+		>Sense: گروهی_از_اجسام	 Source: WIKIDATA
+	Translations FOR SYNSET bn:03185127n -- ID: bn:03185127n
+	Translations FOR SYNSET bn:08074410n -- ID: bn:08074410n
+	Translations FOR SYNSET bn:03429376n -- ID: bn:03429376n
+	Translations FOR SYNSET bn:01723250n -- ID: bn:01723250n
+	Translations FOR SYNSET OMWN_FA:FA:جوخه -- ID: bn:00073698n
+		>Sense: جوخه	 Source: WIKI
+		>Sense: جوخه_آتش	 Source: WIKIRED
+		>Sense: جوخهٔ_آتش	 Source: WIKIRED
+		>Sense: جوخهٔ_اتش	 Source: WIKIRED
+		>Sense: جوخه_اتش	 Source: WIKIRED
+		>Sense: جوخه‎	 Source: WIKT
+		>Sense: گروه_(ارتش)	 Source: WIKIDATA
+		>Sense: جوخه	 Source: OMWN_FA
+		>Sense: دسته	 Source: OMWN_FA
+		>Sense: گروه	 Source: OMWN_FA
+		>Sense: پیراهن	 Source: WNTR
+	Translations FOR SYNSET bn:14166230n -- ID: bn:14166230n
+	Translations FOR SYNSET WIKIDATA:FA:گروه_موسیقی -- ID: bn:00008280n
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_پاپ	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: پروژه_انفرادی	 Source: WIKITR
+		>Sense: گروه_های_موسیقی	 Source: WIKIDATA
+		>Sense: گروههای_موسیقی	 Source: WIKIDATA
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه‌های_موسیقی	 Source: WIKIDATA
+		>Sense: گروه‌هاي_موسيقي	 Source: WIKIRED
+		>Sense: بند_(موسیقی)	 Source: WIKIRED
+		>Sense: گروه_هاي_موسيقي	 Source: WIKIRED
+		>Sense: گروههاي_موسيقي	 Source: WIKIRED
+		>Sense: گروه_های_موسیقی	 Source: WIKIRED
+		>Sense: گروه_موسيقي	 Source: WIKIRED
+		>Sense: بند_(موسيقي)	 Source: WIKIRED
+		>Sense: گروه‌های_موسیقی	 Source: WIKIRED
+		>Sense: گروههای_موسیقی	 Source: WIKIRED
+		>Sense: گروه	 Source: WIKITR
+		>Sense: گروه_راک_پاپ	 Source: WIKITR
+		>Sense: هنرمند_انفرادی	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKITR
+		>Sense: گروه_موسیقی	 Source: WIKIDATA
+	Translations FOR SYNSET WNTR:FA:هوا_گروه -- ID: bn:00002229n
+		>Sense: هوا_گروه	 Source: WNTR
+		>Sense: گروه	 Source: WIKITR
+	Translations FOR SYNSET WIKT:FA:گروه‎ -- ID: bn:00041942n
+		>Sense: گروه	 Source: WNTR
+		>Sense: گروه‎	 Source: WIKT
+		>Sense: گروه	 Source: WIKITR
+SL word: have
+	Translations FOR SYNSET bn:00088745v -- ID: bn:00088745v
+	Translations FOR SYNSET bn:00088734v -- ID: bn:00088734v
+	Translations FOR SYNSET WNTR:FA:دست_آوردن -- ID: bn:00088733v
+		>Sense: دست_آوردن	 Source: WNTR
+	Translations FOR SYNSET bn:00089243v -- ID: bn:00089243v
+	Translations FOR SYNSET bn:00089242v -- ID: bn:00089242v
+	Translations FOR SYNSET OMWN_FA:FA:داشتن -- ID: bn:00089241v
+		>Sense: خود	 Source: WNTR
+		>Sense: مال_خود_دانستن	 Source: OMWN_FA
+		>Sense: داشتن	 Source: OMWN_FA
+	Translations FOR SYNSET WIKT:FA:داشتن‎ -- ID: bn:00089240v
+		>Sense: داشتن‎	 Source: WIKT
+	Translations FOR SYNSET bn:00089247v -- ID: bn:00089247v
+	Translations FOR SYNSET OMWIKI:FA:دریافت_کردن -- ID: bn:00089246v
+		>Sense: دریافت	 Source: WNTR
+		>Sense: دریافت_کردن	 Source: OMWIKI
+		>Sense: گرفتن	 Source: OMWIKI
+	Translations FOR SYNSET bn:00089245v -- ID: bn:00089245v
+	Translations FOR SYNSET WNTR:FA:به -- ID: bn:00085689v
+		>Sense: به	 Source: WNTR
+	Translations FOR SYNSET WNTR:FA:دارند -- ID: bn:00089244v
+		>Sense: دارند	 Source: WNTR
+	Translations FOR SYNSET WIKT:FA:قبول_کردن‎ -- ID: bn:00082198v
+		>Sense: قبول	 Source: WNTR
+		>Sense: را	 Source: WNTR
+		>Sense: قبول_کردن‎	 Source: WIKT
+		>Sense: پذیرفتن‎	 Source: WIKT
+	Translations FOR SYNSET bn:00087863v -- ID: bn:00087863v
+	Translations FOR SYNSET bn:00087865v -- ID: bn:00087865v
+	Translations FOR SYNSET OMWIKI:FA:تحويل‌_دادن‌ -- ID: bn:00083222v
+		>Sense: تحويل‌_دادن‌	 Source: OMWIKI
+	Translations FOR SYNSET WNTR:FA:برگزاری -- ID: bn:00088818v
+		>Sense: داشته_باشند	 Source: WNTR
+		>Sense: برگزاری	 Source: WNTR
+		>Sense: را	 Source: WNTR
+	Translations FOR SYNSET WNTR:FA:از_ویژگی_های -- ID: bn:00088078v
+		>Sense: از_ویژگی_های	 Source: WNTR
+	Translations FOR SYNSET OMWN_FA:FA:ایجاد_کردن -- ID: bn:00084700v
+		>Sense: ایجاد_کردن	 Source: OMWN_FA
+		>Sense: باعث	 Source: WNTR
+		>Sense: سبب_شدن	 Source: OMWN_FA
+		>Sense: را	 Source: WNTR
+	Translations FOR SYNSET WNTR:FA:ثروتمند -- ID: bn:00043165n
+		>Sense: شخص_ثروتمند	 Source: WNTR
+		>Sense: داشتن	 Source: WNTR
+		>Sense: ثروتمند	 Source: WNTR
+SL word: overall
+	Translations FOR SYNSET bn:13605244r -- ID: bn:13605244r
+	Translations FOR SYNSET bn:02541236n -- ID: bn:02541236n
+	Translations FOR SYNSET OMWN_FA:FA:بالاپوش -- ID: bn:00011832n
+		>Sense: boilersuit	 Source: WIKITR
+		>Sense: روپوش	 Source: WIKITR
+		>Sense: boilersuit	 Source: WNTR
+		>Sense: بالاپوش	 Source: OMWN_FA
+		>Sense: همه_جا	 Source: OMWN_FA
+		>Sense: سرتاسر	 Source: OMWN_FA
+		>Sense: کت_و_شلوار_و_دیگهای_بخار	 Source: WNTR
+	Translations FOR SYNSET bn:13759038r -- ID: bn:13759038r
+	Translations FOR SYNSET bn:00108084a -- ID: bn:00108084a
+	Translations FOR SYNSET OMWN_FA:FA:بالاپوش -- ID: bn:00059843n
+		>Sense: همه_جا	 Source: OMWN_FA
+		>Sense: بالاپوش	 Source: OMWN_FA
+		>Sense: شلوار_كار	 Source: WIKIRED
+		>Sense: شلوار_کار	 Source: WIKI
+		>Sense: کلی_سینه_بند	 Source: WIKITR
+	Translations FOR SYNSET bn:00108083a -- ID: bn:00108083a
+SL word: election
+	Translations FOR SYNSET WIKI:FA:انتخابات_(فیلم_۱۹۹۹) -- ID: bn:03548646n
+		>Sense: انتخابات_(فيلم_۱۹۹۹)	 Source: WIKIRED
+		>Sense: انتخابات_(فیلم_۱۹۹۹)	 Source: WIKIDATA
+		>Sense: انتخابات_(فیلم_۱۹۹۹)	 Source: WIKI
+		>Sense: انتخابات_(فیلم_1999)	 Source: WIKIRED
+		>Sense: election	 Source: BABELNET
+	Translations FOR SYNSET WNTR:FA:حکم_انتخابات -- ID: bn:00081703n
+		>Sense: حکم_انتخابات	 Source: WNTR
+	Translations FOR SYNSET bn:00030116n -- ID: bn:00030116n
+	Translations FOR SYNSET bn:02813061n -- ID: bn:02813061n
+	Translations FOR SYNSET WIKI:FA:معاهده_همکاری_ثبت_اختراع -- ID: bn:03157745n
+		>Sense: معاهده_همکاری_ثبت_اختراع	 Source: WIKI
+		>Sense: معاهده_همکاری_ثبت_اختراع_(PCT)	 Source: WIKIRED
+		>Sense: معاهده_همکاری_ثبت_اختراع	 Source: WIKIDATA
+	Translations FOR SYNSET bn:01573498n -- ID: bn:01573498n
+	Translations FOR SYNSET bn:00178667n -- ID: bn:00178667n
+	Translations FOR SYNSET WIKI:FA:انتخابات_(فیلم_۲۰۰۵) -- ID: bn:02351201n
+		>Sense: انتخابات_(فيلم_۲۰۰۵)	 Source: WIKIRED
+		>Sense: انتخابات_(فیلم_۲۰۰۵)	 Source: WIKI
+		>Sense: انتخابات_(فیلم_۲۰۰۵)	 Source: WIKIDATA
+		>Sense: انتخابات_(فیلم_2005)	 Source: WIKIRED
+	Translations FOR SYNSET bn:00030115n -- ID: bn:00030115n
+	Translations FOR SYNSET WIKI:FA:انتخابات_(فیلم_۲۰۱۳) -- ID: bn:14500110n
+		>Sense: انتخابات_(فیلم_۲۰۱۳)	 Source: WIKI
+		>Sense: انتخابات_(فیلم_۲۰۱۳)	 Source: WIKIDATA
+		>Sense: انتخابات_(فیلم_2013)	 Source: WIKIRED
+		>Sense: انتخابات_(فيلم_۲۰۱۳)	 Source: WIKIRED
+	Translations FOR SYNSET bn:00030114n -- ID: bn:00030114n
+	Translations FOR SYNSET WIKI:FA:انتخابات -- ID: bn:00030113n
+		>Sense: انتخابات	 Source: WNTR
+		>Sense: انتخابات‎	 Source: WIKT
+		>Sense: انتخابات	 Source: WIKIDATA
+		>Sense: انتخابات	 Source: WIKI
+		>Sense: انتخاب_مجدد	 Source: WIKITR
+		>Sense: انتخاباتی	 Source: WIKITR
+		>Sense: منتخب	 Source: WIKITR
+		>Sense: انتخابات	 Source: WIKITR
+		>Sense: دموکراتیک_انتخاب_شده	 Source: WIKITR
+		>Sense: انتخابات	 Source: WIKITR
+		>Sense: انتخاب_مجدد	 Source: WIKITR
+		>Sense: انتخابات_زودهنگام	 Source: WIKIRED
+		>Sense: انتخاب	 Source: OMWIKI
+SL word: deserve
+	Translations FOR SYNSET OMWN_FA:FA:استحقاق_داشتن -- ID: bn:00086670v
+		>Sense: استحقاق_داشتن	 Source: OMWN_FA
+		>Sense: شایستگی_داشتن	 Source: OMWN_FA
+		>Sense: سزاوار_بودن	 Source: OMWN_FA
+	Translations FOR SYNSET bn:00197648n -- ID: bn:00197648n
+SL word: praise
+	Translations FOR SYNSET OMWIKI:FA:تحسين -- ID: bn:01193643n
+		>Sense: تحسين	 Source: OMWIKI
+		>Sense: ستایش	 Source: WIKITR
+	Translations FOR SYNSET bn:17127962n -- ID: bn:17127962n
+	Translations FOR SYNSET bn:00376006n -- ID: bn:00376006n
+	Translations FOR SYNSET OMWN_FA:FA:تحسین -- ID: bn:00064021n
+		>Sense: ستایش	 Source: OMWN_FA
+		>Sense: نیایش	 Source: OMWN_FA
+		>Sense: تحسین	 Source: OMWN_FA
+		>Sense: ستایش‎	 Source: WIKT
+	Translations FOR SYNSET OMWN_FA:FA:تعریف_کردن -- ID: bn:00091913v
+		>Sense: تعریف_کردن	 Source: OMWN_FA
+		>Sense: نیایش_کردن	 Source: OMWN_FA
+	Translations FOR SYNSET bn:02250874n -- ID: bn:02250874n
+	Translations FOR SYNSET OMWN_FA:FA:جلال -- ID: bn:00021834n
+		>Sense: تبریک	 Source: WNTR
+		>Sense: جلال	 Source: WNTR
+		>Sense: extolment	 Source: WNTR
+		>Sense: تحسین	 Source: OMWN_FA
+		>Sense: نیایش	 Source: OMWN_FA
+		>Sense: تجلیل	 Source: OMWN_FA
+		>Sense: جلال	 Source: OMWN_FA
+		>Sense: تبریک‎	 Source: WIKT
+	Translations FOR SYNSET bn:03577095n -- ID: bn:03577095n
+	Translations FOR SYNSET bn:17383584n -- ID: bn:17383584n
+SL word: thanks
+	Translations FOR SYNSET OMWN_FA:FA:سپاسگزاری -- ID: bn:00041465n
+		>Sense: سپاسگزاری	 Source: OMWN_FA
+		>Sense: تشکر	 Source: WNTR
+	Translations FOR SYNSET bn:03927865n -- ID: bn:03927865n
+	Translations FOR SYNSET bn:13861223n -- ID: bn:13861223n
+	Translations FOR SYNSET WIKT:FA:تشکر‎ -- ID: bn:00076768n
+		>Sense: تشکر	 Source: WNTR
+		>Sense: ممنون‎	 Source: WIKT
+		>Sense: سپاس‎	 Source: WIKT
+		>Sense: مرسی‎	 Source: WIKT
+		>Sense: تشکر‎	 Source: WIKT
+	Translations FOR SYNSET bn:00076769n -- ID: bn:00076769n
+	Translations FOR SYNSET bn:01249784n -- ID: bn:01249784n
+	Translations FOR SYNSET bn:02396393n -- ID: bn:02396393n
+	Translations FOR SYNSET bn:01775981n -- ID: bn:01775981n
+	Translations FOR SYNSET bn:02495242n -- ID: bn:02495242n
+SL word: location
+	Translations FOR SYNSET WIKI:FA:محل -- ID: bn:00051760n
+		>Sense: محل	 Source: WIKI
+		>Sense: مکان	 Source: WIKITR
+		>Sense: محل	 Source: WIKIDATA
+	Translations FOR SYNSET OMWN_FA:FA:تثبیت_موقعیت -- ID: bn:00030615n
+		>Sense: تثبیت_موقعیت	 Source: OMWN_FA
+		>Sense: تعیین_جا	 Source: OMWN_FA
+		>Sense: جا	 Source: OMWN_FA
+		>Sense: تعیین_محل	 Source: OMWN_FA
+		>Sense: محل_نصب	 Source: OMWN_FA
+		>Sense: تثبیت_موقعیت	 Source: WNTR
+		>Sense: مکان‎	 Source: WIKT
+		>Sense: موقعیت	 Source: WIKITR
+	Translations FOR SYNSET OMWN_FA:FA:محل -- ID: bn:00051761n
+		>Sense: محل	 Source: OMWN_FA
+	Translations FOR SYNSET WIKI:FA:محل -- ID: bn:00062699n
+		>Sense: نقطه	 Source: WNTR
+		>Sense: نقطه_های_توپوگرافی	 Source: WNTR
+		>Sense: جايگاه	 Source: OMWIKI
+		>Sense: محل	 Source: WIKI
+		>Sense: محل‎	 Source: WIKT
+		>Sense: جا‎	 Source: WIKT
+		>Sense: مکان‎	 Source: WIKT
+		>Sense: محل	 Source: WIKIDATA
+		>Sense: موقعیت	 Source: MSTERM
+	Translations FOR SYNSET bn:00034921n -- ID: bn:00034921n
+	Translations FOR SYNSET bn:21133052n -- ID: bn:21133052n
+	Translations FOR SYNSET bn:16155484n -- ID: bn:16155484n
+	Translations FOR SYNSET bn:14818232n -- ID: bn:14818232n
+SL word: manner
+	Translations FOR SYNSET WIKI:FA:عادت -- ID: bn:00042404n
+		>Sense: عادت	 Source: WIKIDATA
+		>Sense: عادت	 Source: WIKITR
+		>Sense: عادت	 Source: WIKI
+		>Sense: عادت‎	 Source: WIKT
+		>Sense: عرف‎	 Source: WIKT
+		>Sense: هند‎	 Source: WIKT
+		>Sense: رسم‎	 Source: WIKT
+		>Sense: رسم	 Source: OMWIKI
+	Translations FOR SYNSET bn:01808018n -- ID: bn:01808018n
+	Translations FOR SYNSET OMWN_FA:FA:ادب -- ID: bn:00033729n
+		>Sense: سبک	 Source: WNTR
+		>Sense: راه	 Source: WNTR
+		>Sense: حالت	 Source: WNTR
+		>Sense: روش	 Source: OMWN_FA
+		>Sense: ادب	 Source: OMWN_FA
+		>Sense: نوع	 Source: OMWN_FA
+		>Sense: قسم	 Source: OMWN_FA
+		>Sense: حالت	 Source: WIKITR
+	Translations FOR SYNSET WIKI:FA:وسیله-هدف -- ID: bn:00820463n
+		>Sense: وسيله-هدف	 Source: WIKIRED
+		>Sense: وسیله-هدف	 Source: WIKI
+		>Sense: وسیله-هدف	 Source: WIKIDATA
+		>Sense: وسیله-هدف	 Source: WIKIDATA
+	Translations FOR SYNSET WIKI:FA:منر_(شرکت) -- ID: bn:16381644n
+		>Sense: منر_(شركت)	 Source: WIKIRED
+		>Sense: منر_(شرکت)	 Source: WIKI
+		>Sense: منر_(شرکت)	 Source: WIKIDATA
+	Translations FOR SYNSET bn:14467680n -- ID: bn:14467680n
+	Translations FOR SYNSET WNTR:FA:شیوه_ای_شخصی -- ID: bn:00053238n
+		>Sense: شیوه_ای_شخصی	 Source: WNTR
+	Translations FOR SYNSET OMWIKI:FA:رسم -- ID: bn:00024591n
+		>Sense: رسم	 Source: OMWIKI
+		>Sense: سفارشی	 Source: WIKITR
+		>Sense: سررسید	 Source: OMWN_FA
+		>Sense: سود_سرمایه	 Source: OMWN_FA
+		>Sense: کاربرد	 Source: OMWN_FA
+		>Sense: مدت	 Source: OMWN_FA
+	Translations FOR SYNSET OMWN_FA:FA:رفتار -- ID: bn:00053239n
+		>Sense: طرز	 Source: OMWN_FA
+		>Sense: روش	 Source: OMWN_FA
+		>Sense: رفتار	 Source: OMWN_FA
+	Translations FOR SYNSET WIKI:FA:روش‌شناسی -- ID: bn:00054633n
+		>Sense: تجزیه_و_تحلیل_روش	 Source: WNTR
+		>Sense: علم_اصول	 Source: OMWN_FA
+		>Sense: متدولوژي	 Source: WIKIRED
+		>Sense: روش_شناسی	 Source: WIKIRED
+		>Sense: روش‌شناسي	 Source: WIKIRED
+		>Sense: متدلوژي	 Source: WIKIRED
+		>Sense: روش	 Source: WIKITR
+		>Sense: روش_شناختی	 Source: WIKITR
+		>Sense: روش	 Source: WIKITR
+		>Sense: روش_تحقیق،	 Source: WIKITR
+		>Sense: متدلوژی	 Source: WIKIDATA
+		>Sense: متدولوژی	 Source: WIKIDATA
+		>Sense: روش‌شناسی	 Source: WIKIDATA
+		>Sense: روش‌شناسی	 Source: WIKI
+		>Sense: متدولوژی	 Source: WIKIRED
+		>Sense: روش_شناسي	 Source: WIKIRED
+		>Sense: متدلوژی	 Source: WIKIRED
+		>Sense: روش_شناسی	 Source: WIKIDATA
+	Translations FOR SYNSET WIKIDATA:FA:Madonna -- ID: bn:00022335n
+		>Sense: معاهده‎	 Source: WIKT
+		>Sense: توافق‌نامه‎	 Source: WIKT
+		>Sense: پیمان‎	 Source: WIKT
+		>Sense: عرفی	 Source: WIKITR
+		>Sense: کنوانسیون	 Source: WIKITR
+		>Sense: متعارف	 Source: WIKITR
+		>Sense: غیر_متعارف	 Source: WIKITR
+		>Sense: Madonna	 Source: WIKIDATA
+	Translations FOR SYNSET OMWN_FA:FA:نگاه -- ID: bn:00006386n
+		>Sense: نگاه	 Source: OMWN_FA
+		>Sense: بیان	 Source: WNTR
+		>Sense: نگاه	 Source: WNTR
+		>Sense: روبہ‎	 Source: WIKT
+		>Sense: حالت_چهره	 Source: WIKI
+	Translations FOR SYNSET bn:17391258n -- ID: bn:17391258n
+SL word: conduct
+	Translations FOR SYNSET OMWN_FA:FA:ادامه_دادن -- ID: bn:00084593v
+		>Sense: انجام	 Source: WNTR
+		>Sense: ادامه_دادن	 Source: OMWN_FA
+	Translations FOR SYNSET OMWN_FA:FA:اعمال -- ID: bn:00009654n
+		>Sense: اعمال	 Source: WNTR
+		>Sense: کرده_ها	 Source: OMWN_FA
+		>Sense: کردارها	 Source: OMWN_FA
+		>Sense: رفتار	 Source: OMWN_FA
+		>Sense: اعمال	 Source: OMWN_FA
+		>Sense: رفتار	 Source: WNTR
+	Translations FOR SYNSET WIKI:FA:رفتار -- ID: bn:00009656n
+		>Sense: رفتار	 Source: WNTR
+		>Sense: رفتار	 Source: WNTR
+		>Sense: اخلاق	 Source: WNTR
+		>Sense: اخلاق	 Source: OMWN_FA
+		>Sense: سوء_رفتار	 Source: WIKITR
+		>Sense: رفتار	 Source: WIKITR
+		>Sense: رفتار	 Source: WIKIDATA
+		>Sense: رفتاری	 Source: WIKITR
+		>Sense: رفتاری	 Source: WIKITR
+		>Sense: رفتار،	 Source: WIKITR
+		>Sense: رفتار_اجتماعی	 Source: WIKITR
+		>Sense: رفتار_اجتماعی	 Source: WIKITR
+		>Sense: رفتار_اجتماعی	 Source: WIKIDATA
+		>Sense: رفتار	 Source: WIKI
+		>Sense: رفتار‎	 Source: WIKT
+	Translations FOR SYNSET WNTR:FA:انجام -- ID: bn:00085566v
+		>Sense: رهبری	 Source: WNTR
+		>Sense: انجام	 Source: WNTR
+	Translations FOR SYNSET bn:03540034n -- ID: bn:03540034n
+	Translations FOR SYNSET WIKI:FA:رفتار -- ID: bn:00009657n
+		>Sense: رفتار	 Source: WIKITR
+		>Sense: رفتار،	 Source: WIKITR
+		>Sense: رفتار	 Source: WIKIDATA
+		>Sense: سوء_رفتار	 Source: WIKITR
+		>Sense: رفتاری	 Source: WIKITR
+		>Sense: رفتار	 Source: WIKI
+	Translations FOR SYNSET OMWN_FA:FA:رساندن -- ID: bn:00084556v
+		>Sense: رساندن	 Source: OMWN_FA
+	Translations FOR SYNSET WNTR:FA:را -- ID: bn:00085567v
+		>Sense: را	 Source: WNTR
+		>Sense: هدایت	 Source: WNTR
+	Translations FOR SYNSET bn:00085568v -- ID: bn:00085568v
+	Translations FOR SYNSET OMWN_FA:FA:ادب_نگاه_داشتن -- ID: bn:00082284v
+		>Sense: حامل_بودن	 Source: OMWN_FA
+		>Sense: ادب_نگاه_داشتن	 Source: OMWN_FA
+		>Sense: سازش_کردن	 Source: OMWN_FA
+		>Sense: برائت_کردن	 Source: OMWN_FA
+		>Sense: انجام_وظیفه_کردن	 Source: OMWN_FA
+		>Sense: دربرداشتن	 Source: OMWN_FA
+SL word: september
+	Translations FOR SYNSET bn:15649592n -- ID: bn:15649592n
+	Translations FOR SYNSET WIKI:FA:سپتامبر_(فیلم_۲۰۰۳) -- ID: bn:01846457n
+		>Sense: سپتامبر_(فیلم_۲۰۰۳)	 Source: WIKIDATA
+		>Sense: سپتامبر_(فیلم_۲۰۰۳)	 Source: WIKI
+	Translations FOR SYNSET bn:02265891n -- ID: bn:02265891n
+	Translations FOR SYNSET WIKI:FA:سپتامبر_(فیلم_۱۹۸۷) -- ID: bn:01763759n
+		>Sense: سپتامبر_(فیلم_۱۹۸۷)	 Source: WIKIDATA
+		>Sense: سپتامبر_(فیلم_۱۹۸۷)	 Source: WIKI
+		>Sense: september	 Source: BABELNET
+	Translations FOR SYNSET bn:07167404n -- ID: bn:07167404n
+	Translations FOR SYNSET WIKI:FA:سپتامبر -- ID: bn:00070537n
+		>Sense: سپتمبر	 Source: WIKIRED
+		>Sense: سپتامبر‎	 Source: WIKT
+		>Sense: ماه_سپتامبر	 Source: WIKIRED
+		>Sense: سپتامبر	 Source: WIKI
+		>Sense: سپتامبر	 Source: WIKITR
+		>Sense: سپتامبر	 Source: WIKIDATA
+		>Sense: سپتامبر	 Source: WNTR
+		>Sense: سپتامبر	 Source: WNTR
+		>Sense: سپتامبر	 Source: OMWIKI
+	Translations FOR SYNSET BABELNET:FA:Port_of_Morrow -- ID: bn:02773402n
+		>Sense: Port_of_Morrow	 Source: BABELNET
+	Translations FOR SYNSET BABELNET:FA:september -- ID: bn:03684598n
+		>Sense: september	 Source: BABELNET
+	Translations FOR SYNSET WIKI:FA:سپتمبر_(خواننده) -- ID: bn:16691637n
+		>Sense: سپتمبر	 Source: WIKIDATA
+		>Sense: سپتمبر_(خواننده)	 Source: WIKI
+		>Sense: September	 Source: BABELNET
+	Translations FOR SYNSET bn:17762413n -- ID: bn:17762413n
+	Translations FOR SYNSET BABELNET:FA:september -- ID: bn:03476883n
+		>Sense: september	 Source: BABELNET
+	Translations FOR SYNSET bn:00232102n -- ID: bn:00232102n
+	Translations FOR SYNSET BABELNET:FA:September -- ID: bn:02078403n
+		>Sense: September	 Source: BABELNET
+	Translations FOR SYNSET bn:03013770n -- ID: bn:03013770n
+	Translations FOR SYNSET bn:03220954n -- ID: bn:03220954n
+	Translations FOR SYNSET WIKI:FA:سپتامبر_(فیلم_۲۰۱۳) -- ID: bn:14836271n
+		>Sense: سپتامبر_(فیلم_۲۰۱۳)	 Source: WIKIDATA
+		>Sense: سپتامبر_(فیلم_۲۰۱۳)	 Source: WIKI
+	Translations FOR SYNSET BABELNET:FA:September -- ID: bn:00783655n
+		>Sense: September	 Source: BABELNET
+	Translations FOR SYNSET WIKI:FA:سپتامبر_(فیلم_۲۰۰۷) -- ID: bn:02787966n
+		>Sense: سپتامبر_(فیلم_۲۰۰۷)	 Source: WIKI
+		>Sense: سپتامبر_(فیلم_۲۰۰۷)	 Source: WIKIDATA
+	Translations FOR SYNSET WIKI:FA:سپتامبر_(فیلم_۲۰۱۱) -- ID: bn:02681042n
+		>Sense: سپتامبر_(فیلم_۲۰۱۱)	 Source: WIKI
+		>Sense: سپتامبر_(فیلم_۲۰۱۱)	 Source: WIKIDATA
+	Translations FOR SYNSET WIKI:FA:سپتامبر_(فیلم_۱۹۸۴) -- ID: bn:01465656n
+		>Sense: سپتامبر_(فیلم_۱۹۸۴)	 Source: WIKIDATA
+		>Sense: سپتامبر_(فیلم_۱۹۸۴)	 Source: WIKI
+SL word: october
+	Translations FOR SYNSET WIKI:FA:اکتبر_(فیلم) -- ID: bn:01965279n
+		>Sense: اكتبر_(فيلم)	 Source: WIKIRED
+		>Sense: اکتبر_(فیلم)	 Source: WIKIDATA
+		>Sense: اکتبر_(فیلم)	 Source: WIKI
+	Translations FOR SYNSET BABELNET:FA:October -- ID: bn:03198027n
+		>Sense: October	 Source: BABELNET
+	Translations FOR SYNSET WIKI:FA:اکتبر -- ID: bn:00058593n
+		>Sense: اکتبر	 Source: OMWIKI
+		>Sense: اکتبر	 Source: WNTR
+		>Sense: اکتبر	 Source: WNTR
+		>Sense: اکتبر	 Source: WIKI
+		>Sense: اكتوبر	 Source: WIKIRED
+		>Sense: آكتبر	 Source: WIKIRED
+		>Sense: ماه_اكتبر	 Source: WIKIRED
+		>Sense: آکتبر	 Source: WIKIRED
+		>Sense: اکتوبر	 Source: WIKIRED
+		>Sense: اكتبر	 Source: WIKIRED
+		>Sense: ماه_اکتبر	 Source: WIKIRED
+		>Sense: اکتبر	 Source: WIKIDATA
+		>Sense: اکتبر	 Source: WIKITR
+		>Sense: اکتبر‎	 Source: WIKT
+	Translations FOR SYNSET bn:02724736n -- ID: bn:02724736n
+	Translations FOR SYNSET bn:07686867n -- ID: bn:07686867n
+	Translations FOR SYNSET bn:14096179n -- ID: bn:14096179n
+	Translations FOR SYNSET bn:16102026n -- ID: bn:16102026n
+	Translations FOR SYNSET bn:15389172n -- ID: bn:15389172n
+	Translations FOR SYNSET WIKI:FA:اکتبر_(آلبوم_یوتو) -- ID: bn:14660461n
+		>Sense: اكتبر_(آلبوم_يوتو)	 Source: WIKIRED
+		>Sense: اکتبر_(البوم_یوتو)	 Source: WIKIRED
+		>Sense: اكتبر_(البوم_يوتو)	 Source: WIKIRED
+		>Sense: اکتبر_(آلبوم_یوتو)	 Source: WIKI
+		>Sense: اکتبر_(آلبوم_یوتو)	 Source: WIKIDATA
+		>Sense: October	 Source: BABELNET
+	Translations FOR SYNSET bn:01707892n -- ID: bn:01707892n
+	Translations FOR SYNSET BABELNET:FA:October -- ID: bn:00583583n
+		>Sense: October	 Source: BABELNET
+	Translations FOR SYNSET bn:02038333n -- ID: bn:02038333n
+	Translations FOR SYNSET bn:11195809n -- ID: bn:11195809n
+	Translations FOR SYNSET BABELNET:FA:Eric_Whitacre -- ID: bn:03701800n
+		>Sense: اریک_وایتکر	 Source: WIKIDATA
+		>Sense: Eric_Whitacre	 Source: BABELNET
+	Translations FOR SYNSET WIKI:FA:رابرت_فراست -- ID: bn:00036663n
+		>Sense: رابرت_فراست	 Source: WIKI
+		>Sense: رابرت_فراست	 Source: WIKIDATA
+		>Sense: رابرت_فراست	 Source: WNTR
+		>Sense: رابرت_لی_فراست	 Source: WNTR
+		>Sense: Robert_frost	 Source: BABELNET
+	Translations FOR SYNSET bn:21492342n -- ID: bn:21492342n
+	Translations FOR SYNSET bn:17518160n -- ID: bn:17518160n
+	Translations FOR SYNSET bn:16062435n -- ID: bn:16062435n
+SL word: charge
+	Translations FOR SYNSET bn:00017795n -- ID: bn:00017795n
+	Translations FOR SYNSET bn:00017791n -- ID: bn:00017791n
+	Translations FOR SYNSET bn:03593761n -- ID: bn:03593761n
+	Translations FOR SYNSET bn:16703581n -- ID: bn:16703581n
+	Translations FOR SYNSET OMWN_FA:FA:سرپرستی -- ID: bn:00016015n
+		>Sense: سرپرستی	 Source: WIKITR
+		>Sense: سرپرستی	 Source: OMWN_FA
+		>Sense: قیمومیت	 Source: OMWN_FA
+	Translations FOR SYNSET bn:03637328n -- ID: bn:03637328n
+	Translations FOR SYNSET WIKI:FA:بار_(فیزیک) -- ID: bn:03312142n
+		>Sense: بار_(فيزيك)	 Source: WIKIRED
+		>Sense: بار_(فیزیک)	 Source: WIKI
+		>Sense: بار	 Source: WIKIDATA
+	Translations FOR SYNSET bn:00084804v -- ID: bn:00084804v
+	Translations FOR SYNSET bn:05144803n -- ID: bn:05144803n
+	Translations FOR SYNSET bn:00084812v -- ID: bn:00084812v
+	Translations FOR SYNSET bn:00082467v -- ID: bn:00082467v
+	Translations FOR SYNSET OMWN_FA:FA:انرژی_روانی -- ID: bn:00016770n
+		>Sense: cathexis	 Source: WNTR
+		>Sense: انرژی_روانی	 Source: OMWN_FA
+		>Sense: cathexis	 Source: WIKITR
+	Translations FOR SYNSET WIKI:FA:مواد_منفجره -- ID: bn:00014070n
+		>Sense: ترکیدن_شارژ	 Source: WNTR
+		>Sense: اتهام_مواد_منفجره	 Source: WNTR
+		>Sense: burster	 Source: WNTR
+		>Sense: ماده_منفجره	 Source: WIKIRED
+		>Sense: مواد_منفجره	 Source: WIKI
+		>Sense: مواد_منفجره_ثانویه	 Source: WIKITR
+		>Sense: مواد_منفجره	 Source: WIKITR
+		>Sense: مواد_منفجره	 Source: WIKITR
+		>Sense: مواد_محترقه	 Source: WIKIRED
+		>Sense: مواد_منفجره	 Source: WIKIDATA
+	Translations FOR SYNSET bn:00083486v -- ID: bn:00083486v
+	Translations FOR SYNSET BABELNET:FA:Chargé -- ID: bn:00809247n
+		>Sense: Chargé	 Source: BABELNET
+	Translations FOR SYNSET bn:00084808v -- ID: bn:00084808v
+	Translations FOR SYNSET WIKI:FA:کاردار -- ID: bn:00017801n
+		>Sense: کاردار	 Source: WNTR
+		>Sense: کاردار	 Source: WIKIDATA
+		>Sense: شارژ_دافر	 Source: WIKIDATA
+		>Sense: شارژدافر	 Source: WIKIDATA
+		>Sense: شارژ_دافر	 Source: WIKIRED
+		>Sense: کاردار	 Source: WIKI
+		>Sense: شارژدافر	 Source: WIKIRED
+		>Sense: کاردار	 Source: WIKITR
+		>Sense: کاردار	 Source: WIKITR
+		>Sense: كاردار	 Source: WIKIRED
+		>Sense: کاردار	 Source: WIKT
+		>Sense: شارژدافر	 Source: WIKT
+		>Sense: کاردار	 Source: WIKITR
+		>Sense: کاردار	 Source: WIKITR
+		>Sense: کاردار	 Source: WIKITR
+	Translations FOR SYNSET bn:00084816v -- ID: bn:00084816v
+	Translations FOR SYNSET bn:00017794n -- ID: bn:00017794n
+	Translations FOR SYNSET bn:03246215n -- ID: bn:03246215n
+	Translations FOR SYNSET WNTR:FA:اتهام -- ID: bn:00017790n
+		>Sense: اتهام	 Source: WNTR
+		>Sense: اتهام_جنایی	 Source: WIKITR
+		>Sense: اتهامات_جنایی	 Source: WIKITR
+	Translations FOR SYNSET WIKITR:FA:اتهام -- ID: bn:00005786n
+		>Sense: اتهام	 Source: WIKITR
+		>Sense: بلبرینگ_زرهی	 Source: WNTR
+		>Sense: بلبرینگ_heraldic	 Source: WNTR
+	Translations FOR SYNSET WIKI:FA:موتور_درون‌سوز -- ID: bn:00045708n
+		>Sense: موتور_احتراق_داخلی	 Source: WIKITR
+		>Sense: موتورهای_احتراق_داخلی	 Source: WIKITR
+		>Sense: موتور_سوخت_داخلي	 Source: WIKIRED
+		>Sense: موتور_احتراقی	 Source: WIKIRED
+		>Sense: موتورهاي_درون_سوز	 Source: WIKIRED
+		>Sense: موتور_درون‌سوز	 Source: WIKI
+		>Sense: موتورهای_احتراق_داخلی	 Source: WIKIRED
+		>Sense: درونسوز	 Source: WIKIRED
+		>Sense: موتورهاي_سوخت_داخلي	 Source: WIKIRED
+		>Sense: سيستم_جرقه_زني	 Source: WIKIRED
+		>Sense: موتورهای_درون_سوز	 Source: WIKIRED
+		>Sense: موتورهای_سوخت_داخلی	 Source: WIKIRED
+		>Sense: موتور_خودرو	 Source: WIKIRED
+		>Sense: موتور_احتراق_داخلی	 Source: WIKIRED
+		>Sense: موتورهای_درون‌سوز	 Source: WIKIRED
+		>Sense: ماشين_هاي_درون_سوز	 Source: WIKIRED
+		>Sense: موتورهاي_احتراق_داخلي	 Source: WIKIRED
+		>Sense: ماشین_های_درون_سوز	 Source: WIKIRED
+		>Sense: موتور_احتراق_داخلي	 Source: WIKIRED
+		>Sense: موتور_درونسوز	 Source: WIKIRED
+		>Sense: موتور_سوخت_داخلی	 Source: WIKIRED
+		>Sense: ماشین‌های_درون‌سوز	 Source: WIKIRED
+		>Sense: موتور_درون_سوز	 Source: WIKIRED
+		>Sense: موتور_احتراقي	 Source: WIKIRED
+		>Sense: سیستم_جرقه_زنی	 Source: WIKIRED
+		>Sense: موتور_با_موتورهای_احتراق_داخلی	 Source: WNTR
+	Translations FOR SYNSET bn:00084815v -- ID: bn:00084815v
+	Translations FOR SYNSET bn:00084803v -- ID: bn:00084803v
+	Translations FOR SYNSET OMWN_FA:FA:اتهام -- ID: bn:00000785n
+		>Sense: اتهام	 Source: OMWN_FA
+		>Sense: تهمت	 Source: OMWN_FA
+	Translations FOR SYNSET bn:00084811v -- ID: bn:00084811v
+	Translations FOR SYNSET bn:17650102n -- ID: bn:17650102n
+	Translations FOR SYNSET WIKIDATA:FA:شبیخون -- ID: bn:14646148n
+		>Sense: شبیخون	 Source: WIKIDATA
+	Translations FOR SYNSET bn:00084819v -- ID: bn:00084819v
+	Translations FOR SYNSET bn:00084807v -- ID: bn:00084807v
+	Translations FOR SYNSET OMWN_FA:FA:تحمیل_کردن -- ID: bn:00084263v
+		>Sense: زین_کردن	 Source: OMWN_FA
+		>Sense: تحمیل_کردن	 Source: OMWN_FA
+	Translations FOR SYNSET bn:00084174v -- ID: bn:00084174v
+	Translations FOR SYNSET WNTR:FA:ماموریت -- ID: bn:00017793n
+		>Sense: ماموریت	 Source: WNTR
+	Translations FOR SYNSET bn:00082250v -- ID: bn:00082250v
+	Translations FOR SYNSET bn:00084814v -- ID: bn:00084814v
+	Translations FOR SYNSET bn:02346949n -- ID: bn:02346949n
+	Translations FOR SYNSET bn:00084810v -- ID: bn:00084810v
+	Translations FOR SYNSET bn:00083234v -- ID: bn:00083234v
+	Translations FOR SYNSET bn:00084818v -- ID: bn:00084818v
+	Translations FOR SYNSET OMWIKI:FA:منصوب‌_كردن‌ -- ID: bn:00082716v
+		>Sense: منصوب‌_كردن‌	 Source: OMWIKI
+	Translations FOR SYNSET bn:00084806v -- ID: bn:00084806v
+	Translations FOR SYNSET bn:03783866n -- ID: bn:03783866n
+	Translations FOR SYNSET OMWN_FA:FA:گله_کردن -- ID: bn:00083547v
+		>Sense: گله_کردن	 Source: OMWN_FA
+	Translations FOR SYNSET bn:00017796n -- ID: bn:00017796n
+	Translations FOR SYNSET WIKI:FA:بار_الکتریکی -- ID: bn:00017792n
+		>Sense: بارهای_الکتریکی_است	 Source: WIKITR
+		>Sense: باردار_الکتریکی_را	 Source: WIKITR
+		>Sense: بار_الکتریکی	 Source: WIKITR
+		>Sense: بارهای_الکتریکی	 Source: WIKITR
+		>Sense: بار_الکتریکی	 Source: WIKITR
+		>Sense: بار_الكتريسيته	 Source: WIKIRED
+		>Sense: بار_الكتريكي	 Source: WIKIRED
+		>Sense: بارهاي_الكتريكي	 Source: WIKIRED
+		>Sense: بار_الکتریکی	 Source: WIKI
+		>Sense: بارهای_الکتریکی	 Source: WIKIRED
+		>Sense: بار_الکتریسیته	 Source: WIKIRED
+		>Sense: بار_الکتریکی	 Source: WIKIDATA
+		>Sense: بار_الکتریکی	 Source: WNTR
+	Translations FOR SYNSET bn:01278531n -- ID: bn:01278531n
+	Translations FOR SYNSET bn:00221483n -- ID: bn:00221483n
+	Translations FOR SYNSET bn:01433176n -- ID: bn:01433176n
+	Translations FOR SYNSET OMWN_FA:FA:صدور_صورتحساب -- ID: bn:00010438n
+		>Sense: صورت_حساب	 Source: MSTERM
+		>Sense: صدور_صورتحساب	 Source: OMWN_FA
+		>Sense: صدور_صورت_حساب	 Source: WNTR
+	Translations FOR SYNSET bn:00084813v -- ID: bn:00084813v
+	Translations FOR SYNSET WIKITR:FA:عجله -- ID: bn:00008335n
+		>Sense: عجله	 Source: WIKITR
+		>Sense: عجله،	 Source: WIKITR
+	Translations FOR SYNSET bn:00084809v -- ID: bn:00084809v
+	Translations FOR SYNSET bn:00084817v -- ID: bn:00084817v
+	Translations FOR SYNSET bn:00017789n -- ID: bn:00017789n
+	Translations FOR SYNSET bn:00084805v -- ID: bn:00084805v
+	Translations FOR SYNSET bn:14639094n -- ID: bn:14639094n
+SL word: person
+	Translations FOR SYNSET bn:13640267v -- ID: bn:13640267v
+	Translations FOR SYNSET bn:13410775n -- ID: bn:13410775n
+	Translations FOR SYNSET bn:13640268v -- ID: bn:13640268v
+	Translations FOR SYNSET OMWN_FA:FA:شخص -- ID: bn:00061715n
+		>Sense: کس	 Source: OMWN_FA
+		>Sense: نفر	 Source: OMWN_FA
+		>Sense: هیکل	 Source: OMWN_FA
+		>Sense: ادم	 Source: OMWN_FA
+		>Sense: شخص	 Source: OMWN_FA
+		>Sense: وجود	 Source: OMWN_FA
+		>Sense: کَس	 Source: WIKIRED
+		>Sense: كَس	 Source: WIKIRED
+		>Sense: شخص_(دستور_زبان)	 Source: WIKI
+		>Sense: شخص	 Source: WIKIDATA
+		>Sense: کَس	 Source: WIKIDATA
+		>Sense: اول_شخص_مفرد	 Source: WIKITR
+		>Sense: شخص_دستوری	 Source: WIKITR
+		>Sense: شخص	 Source: WIKITR
+	Translations FOR SYNSET OMWN_FA:FA:ادم -- ID: bn:00061714n
+		>Sense: کس	 Source: OMWN_FA
+		>Sense: وجود	 Source: OMWN_FA
+		>Sense: شخص	 Source: OMWN_FA
+		>Sense: ادم	 Source: OMWN_FA
+	Translations FOR SYNSET bn:16076822n -- ID: bn:16076822n
+	Translations FOR SYNSET bn:00691354n -- ID: bn:00691354n
+	Translations FOR SYNSET WIKI:FA:انسان -- ID: bn:00044576n
+		>Sense: انسان	 Source: WNTR
+		>Sense: انسان	 Source: WNTR
+		>Sense: انسانی	 Source: OMWN_FA
+		>Sense: ادم	 Source: OMWN_FA
+		>Sense: انسانی	 Source: WNTR
+		>Sense: انسان_به_کالبد_امروزی	 Source: WIKIRED
+		>Sense: انسان_به_كالبد_امروزي	 Source: WIKIRED
+		>Sense: انسان_امروزی	 Source: WIKIRED
+		>Sense: انسان_امروزي	 Source: WIKIRED
+		>Sense: آدمیزاد	 Source: WIKIRED
+		>Sense: هوموساپین	 Source: WIKIRED
+		>Sense: ناس	 Source: WIKIDATA
+		>Sense: آدم	 Source: WIKIDATA
+		>Sense: خلق	 Source: WIKIDATA
+		>Sense: بشر	 Source: WIKIDATA
+		>Sense: کس	 Source: WIKIDATA
+		>Sense: مردم	 Source: WIKIDATA
+		>Sense: انس	 Source: WIKIDATA
+		>Sense: آدمیزاد	 Source: WIKIDATA
+		>Sense: انسان	 Source: WIKIDATA
+		>Sense: اثربوس	 Source: WIKIRED
+		>Sense: افراد	 Source: WIKIRED
+		>Sense: انسان_دانای_دانا	 Source: WIKIRED
+		>Sense: هموساپینا	 Source: WIKIRED
+		>Sense: انسان	 Source: WIKI
+		>Sense: ادميان	 Source: WIKIRED
+		>Sense: ادمي	 Source: WIKIRED
+		>Sense: ادمی	 Source: WIKIRED
+		>Sense: انسان_دانا	 Source: WIKIRED
+		>Sense: هوموساپينس	 Source: WIKIRED
+		>Sense: انسان_امروزین	 Source: WIKIRED
+		>Sense: ادمیان	 Source: WIKIRED
+		>Sense: انسانها	 Source: WIKIRED
+		>Sense: انسان_ها	 Source: WIKIRED
+		>Sense: انسان‌ها	 Source: WIKIRED
+		>Sense: انسان_داناي_دانا	 Source: WIKIRED
+		>Sense: هوموسیپین	 Source: WIKIRED
+		>Sense: آدمیان	 Source: WIKIRED
+		>Sense: هوموسيپين	 Source: WIKIRED
+		>Sense: هموساپينا	 Source: WIKIRED
+		>Sense: آدمی	 Source: WIKIRED
+		>Sense: انسان_امروزين	 Source: WIKIRED
+		>Sense: آدمي	 Source: WIKIRED
+		>Sense: هوموساپين	 Source: WIKIRED
+		>Sense: انسان_(جنس)	 Source: WIKIRED
+		>Sense: انسان_(سرده)	 Source: WIKI
+		>Sense: سردهٔ_انسان	 Source: WIKIRED
+		>Sense: آدميان	 Source: WIKIRED
+		>Sense: هومو	 Source: WIKIRED
+		>Sense: سرده_انسان	 Source: WIKIRED
+		>Sense: هومو	 Source: WIKIDATA
+		>Sense: سردهٔ_انسان	 Source: WIKIDATA
+		>Sense: سرده_انسان	 Source: WIKIDATA
+		>Sense: انسان	 Source: WIKITR
+		>Sense: انسان	 Source: WIKITR
+		>Sense: انسان	 Source: WIKIDATA
+		>Sense: Homo_sapiens	 Source: BABELNET
+	Translations FOR SYNSET bn:16742246n -- ID: bn:16742246n
+	Translations FOR SYNSET bn:01082220n -- ID: bn:01082220n
+	Translations FOR SYNSET WIKI:FA:فرد -- ID: bn:00046516n
+		>Sense: شَخص	 Source: OMWIKI
+		>Sense: فرد	 Source: WIKIDATA
+		>Sense: کس	 Source: WIKT
+		>Sense: شخص	 Source: WIKT
+		>Sense: افراد	 Source: WIKITR
+		>Sense: شخص	 Source: WIKI
+		>Sense: کسی‎	 Source: WIKT
+		>Sense: کسی‎	 Source: WIKT
+		>Sense: شخص	 Source: WIKIDATA
+		>Sense: فرد	 Source: WIKIDATA
+		>Sense: فرد	 Source: WIKI
+		>Sense: شخصی	 Source: OMWN_FA
+		>Sense: کسی	 Source: OMWN_FA
+		>Sense: یک_شخص	 Source: OMWN_FA
+		>Sense: یک_کسی	 Source: OMWN_FA
+		>Sense: فرد	 Source: WNTR
+		>Sense: فانی	 Source: WNTR
+		>Sense: کسی	 Source: WNTR
+		>Sense: کسی	 Source: WNTR
+	Translations FOR SYNSET WIKIDATA:FA:شخص_حقوقی -- ID: bn:01487948n
+		>Sense: فرد_حقوقی	 Source: WIKIDATA
+		>Sense: افراد_حقوقی	 Source: WIKIDATA
+		>Sense: شخصیت_حقوقی	 Source: WIKIDATA
+		>Sense: اشخاص_حقوقی	 Source: WIKIDATA
+		>Sense: شخص_حقوقی_جداگانه،	 Source: WIKITR
+		>Sense: شخص_حقوقی	 Source: WIKIDATA
+		>Sense: نهاد_کسب_و_کار	 Source: WIKITR
+		>Sense: بدن_شرکت	 Source: WIKITR
+		>Sense: شخص_حقوقی	 Source: WIKITR
+		>Sense: شخص_حقوقی	 Source: WIKITR
+		>Sense: بدن_شرکت	 Source: WIKITR
+		>Sense: شخصيت_حقوقى	 Source: OMWIKI
+	Translations FOR SYNSET WIKITR:FA:hypostases -- ID: bn:00045622n
+		>Sense: hypostases	 Source: WIKITR
+		>Sense: ذات	 Source: WIKITR
+		>Sense: ذات_مسیح	 Source: WNTR
+	Translations FOR SYNSET bn:01583260n -- ID: bn:01583260n
+SL word: report
+	Translations FOR SYNSET WIKI:FA:کارنامه -- ID: bn:00067183n
+		>Sense: کارنامه	 Source: WNTR
+		>Sense: كارنامه	 Source: WIKIRED
+		>Sense: کارنامه	 Source: WIKI
+		>Sense: کارنامه	 Source: WIKIDATA
+	Translations FOR SYNSET OMWN_FA:FA:آوازه -- ID: bn:00067184n
+		>Sense: شهرت	 Source: OMWN_FA
+		>Sense: آوازه	 Source: OMWN_FA
+	Translations FOR SYNSET WIKT:FA:گزارش -- ID: bn:00067181n
+		>Sense: گزارش	 Source: WNTR
+		>Sense: گزارش_نوشته_شده_است	 Source: WNTR
+		>Sense: گزارش	 Source: WIKITR
+		>Sense: گزارش	 Source: WIKT
+		>Sense: راپرت	 Source: WIKT
+		>Sense: گزارش	 Source: MSTERM
+	Translations FOR SYNSET WIKITR:FA:گزارش -- ID: bn:00067182n
+		>Sense: گزارش	 Source: WIKITR
+	Translations FOR SYNSET bn:00085907v -- ID: bn:00085907v
+	Translations FOR SYNSET WNTR:FA:مقاله -- ID: bn:00021410n
+		>Sense: مقاله	 Source: WNTR
+	Translations FOR SYNSET bn:01884598n -- ID: bn:01884598n
+	Translations FOR SYNSET OMWN_FA:FA:بازداشت -- ID: bn:00026641n
+		>Sense: بازداشت	 Source: WIKITR
+		>Sense: بازداشت	 Source: WIKITR
+		>Sense: توقیف	 Source: OMWN_FA
+		>Sense: بازداشت	 Source: OMWN_FA
+		>Sense: حبس	 Source: OMWN_FA
+	Translations FOR SYNSET WNTR:FA:توصیف -- ID: bn:00082233v
+		>Sense: گزارش	 Source: WNTR
+		>Sense: توصیف	 Source: WNTR
+	Translations FOR SYNSET WIKI:FA:گزارش_(فیلم) -- ID: bn:03825217n
+		>Sense: گزارش	 Source: WIKIDATA
+		>Sense: گزارش_(فيلم)	 Source: WIKIRED
+		>Sense: گزارش_(فیلم)	 Source: WIKI
+	Translations FOR SYNSET bn:01795238n -- ID: bn:01795238n
+	Translations FOR SYNSET bn:00000745n -- ID: bn:00000745n
+	Translations FOR SYNSET WIKI:FA:انفجار -- ID: bn:00011468n
+		>Sense: انفجار	 Source: WIKI
+		>Sense: منفجر	 Source: WIKITR
+		>Sense: انفجار	 Source: WIKITR
+		>Sense: انفجار،	 Source: WIKITR
+		>Sense: انفجار	 Source: WIKIDATA
+		>Sense: بیرون_ریزی	 Source: OMWN_FA
+	Translations FOR SYNSET bn:00092826v -- ID: bn:00092826v
+	Translations FOR SYNSET WNTR:FA:گزارش -- ID: bn:00092824v
+		>Sense: گزارش	 Source: WNTR
+	Translations FOR SYNSET bn:00092825v -- ID: bn:00092825v
+	Translations FOR SYNSET WNTR:FA:گزارش -- ID: bn:00092823v
+		>Sense: گزارش	 Source: WNTR
+	Translations FOR SYNSET WNTR:FA:اخبار_و_گزارش -- ID: bn:00000739n
+		>Sense: اخبار_و_گزارش	 Source: WNTR
+		>Sense: شرح_چیزی_را_نوشتن	 Source: WNTR
+	Translations FOR SYNSET bn:14646660n -- ID: bn:14646660n
+	Translations FOR SYNSET bn:01707225n -- ID: bn:01707225n
+SL word: possible
+	Translations FOR SYNSET OMWN_FA:FA:امکان_پذیر -- ID: bn:00108830a
+		>Sense: ممکن_است	 Source: WNTR
+		>Sense: امکان_پذیر	 Source: OMWN_FA
+		>Sense: میسر	 Source: OMWN_FA
+		>Sense: ذخیره_ای	 Source: OMWN_FA
+		>Sense: بالقوه	 Source: WNTR
+	Translations FOR SYNSET OMWN_FA:FA:امکان -- ID: bn:00063741n
+		>Sense: امکان	 Source: OMWN_FA
+	Translations FOR SYNSET OMWN_FA:FA:امکان -- ID: bn:00063740n
+		>Sense: امکان	 Source: OMWN_FA
+	Translations FOR SYNSET bn:17527525n -- ID: bn:17527525n
+	Translations FOR SYNSET OMWN_FA:FA:امکان_پذیر -- ID: bn:00108829a
+		>Sense: امکان_پذیر	 Source: OMWN_FA
+		>Sense: میسر	 Source: OMWN_FA
+SL word: win
+	Translations FOR SYNSET bn:00082280v -- ID: bn:00082280v
+	Translations FOR SYNSET bn:00841307n -- ID: bn:00841307n
+	Translations FOR SYNSET OMWN_FA:FA:بدست_اوردن -- ID: bn:00081253n
+		>Sense: پیروزی	 Source: OMWN_FA
+		>Sense: فتح	 Source: OMWN_FA
+		>Sense: بدست_اوردن	 Source: OMWN_FA
+		>Sense: بُرد	 Source: OMWIKI
+	Translations FOR SYNSET WNTR:FA:موفق -- ID: bn:00084086v
+		>Sense: موفق	 Source: WNTR
+	Translations FOR SYNSET WIKI:FA:پیروزی_(فیلم_۱۹۶۹) -- ID: bn:02680502n
+		>Sense: پیروزی	 Source: WIKIDATA
+		>Sense: پیروزی_(فیلم_۱۹۶۹)	 Source: WIKI
+		>Sense: پيروزي_(فيلم_۱۹۶۹)	 Source: WIKIRED
+	Translations FOR SYNSET bn:17403862n -- ID: bn:17403862n
+	Translations FOR SYNSET bn:01276622n -- ID: bn:01276622n
+	Translations FOR SYNSET bn:05533345n -- ID: bn:05533345n
+	Translations FOR SYNSET bn:00561864n -- ID: bn:00561864n
+	Translations FOR SYNSET OMWN_FA:FA:بدست_اوردن -- ID: bn:00064638n
+		>Sense: برنده	 Source: WNTR
+		>Sense: فتح	 Source: OMWN_FA
+		>Sense: پیروزی	 Source: OMWN_FA
+		>Sense: بدست_اوردن	 Source: OMWN_FA
+	Translations FOR SYNSET bn:09720269n -- ID: bn:09720269n
+	Translations FOR SYNSET OMWN_FA:FA:بردن -- ID: bn:00082399v
+		>Sense: بردن	 Source: OMWN_FA
+	Translations FOR SYNSET WIKI:FA:پیروزی -- ID: bn:00078365n
+		>Sense: پیروزی	 Source: WIKI
+		>Sense: پیروزی‎	 Source: WIKT
+		>Sense: پیروزی	 Source: WIKIDATA
+		>Sense: ظفر	 Source: OMWN_FA
+		>Sense: طاق_نصرت	 Source: OMWN_FA
+		>Sense: فیروزی	 Source: OMWN_FA
+		>Sense: غلبه	 Source: OMWN_FA
+		>Sense: نصرت	 Source: OMWN_FA
+		>Sense: پیروزی	 Source: WNTR
+		>Sense: پیروزی	 Source: WNTR
+		>Sense: پیروزی	 Source: WNTR
+	Translations FOR SYNSET bn:00095777v -- ID: bn:00095777v
+	Translations FOR SYNSET bn:13812640n -- ID: bn:13812640n
+	Translations FOR SYNSET bn:15358492n -- ID: bn:15358492n
+	Translations FOR SYNSET BABELNET:FA:Young_Americans -- ID: bn:00430875n
+		>Sense: Young_Americans	 Source: BABELNET
+	Translations FOR SYNSET bn:00943486n -- ID: bn:00943486n
+	Translations FOR SYNSET bn:21445117n -- ID: bn:21445117n
+	Translations FOR SYNSET bn:02363521n -- ID: bn:02363521n
+SL word: only
+	Translations FOR SYNSET bn:02911326n -- ID: bn:02911326n
+	Translations FOR SYNSET bn:16408008n -- ID: bn:16408008n
+	Translations FOR SYNSET WIKT:FA:فقط -- ID: bn:00114626r
+		>Sense: صرفا	 Source: WNTR
+		>Sense: به_سادگی	 Source: WNTR
+		>Sense: فقط	 Source: WNTR
+		>Sense: تنها	 Source: WNTR
+		>Sense: فقط	 Source: WIKT
+	Translations FOR SYNSET bn:03755333n -- ID: bn:03755333n
+	Translations FOR SYNSET bn:04876440n -- ID: bn:04876440n
+	Translations FOR SYNSET bn:15132274n -- ID: bn:15132274n
+	Translations FOR SYNSET bn:07892895n -- ID: bn:07892895n
+	Translations FOR SYNSET BABELNET:FA:Only -- ID: bn:01360600n
+		>Sense: Only	 Source: BABELNET
+	Translations FOR SYNSET bn:02020285n -- ID: bn:02020285n
+	Translations FOR SYNSET WNTR:FA:تنها -- ID: bn:00116447r
+		>Sense: تنها	 Source: WNTR
+	Translations FOR SYNSET WNTR:FA:تنها -- ID: bn:00116448r
+		>Sense: تنها	 Source: WNTR
+	Translations FOR SYNSET bn:00116449r -- ID: bn:00116449r
+	Translations FOR SYNSET bn:00096871a -- ID: bn:00096871a
+	Translations FOR SYNSET BABELNET:FA:Only -- ID: bn:00576849n
+		>Sense: Only	 Source: BABELNET
+	Translations FOR SYNSET bn:00106121a -- ID: bn:00106121a
+	Translations FOR SYNSET bn:00116450r -- ID: bn:00116450r
+	Translations FOR SYNSET bn:00116451r -- ID: bn:00116451r
+	Translations FOR SYNSET OMWN_FA:FA:فقط -- ID: bn:00114234r
+		>Sense: صرفا	 Source: WNTR
+		>Sense: طور_انحصاری	 Source: WNTR
+		>Sense: صرفا	 Source: OMWN_FA
+		>Sense: تنها	 Source: WNTR
+		>Sense: فقط	 Source: OMWN_FA
+		>Sense: فقط	 Source: WIKT
+SL word: handful
+	Translations FOR SYNSET OMWN_FA:FA:تنی_چند -- ID: bn:00042807n
+		>Sense: تنی_چند	 Source: OMWN_FA
+		>Sense: مشت	 Source: OMWN_FA
+		>Sense: یک_مشت_پر	 Source: OMWN_FA
+		>Sense: مشتی	 Source: OMWN_FA
+	Translations FOR SYNSET OMWN_FA:FA:مشت -- ID: bn:00034888n
+		>Sense: مشت	 Source: OMWN_FA
+		>Sense: مشتی	 Source: OMWN_FA
+		>Sense: یک_مشت_پر	 Source: OMWN_FA
+		>Sense: تنی_چند	 Source: OMWN_FA
+		>Sense: مشت	 Source: WNTR
+		>Sense: يك‌_مشت‌_پر	 Source: OMWIKI
+SL word: such
+	Translations FOR SYNSET bn:00111411a -- ID: bn:00111411a
+	Translations FOR SYNSET bn:02675450n -- ID: bn:02675450n
+	Translations FOR SYNSET WIKI:FA:هانگول -- ID: bn:00652250n
+		>Sense: هانگول	 Source: WIKI
+		>Sense: زبان_هانگول	 Source: WIKIRED
+		>Sense: خط_هانگول	 Source: WIKIRED
+		>Sense: هانگول‎	 Source: WIKT
+		>Sense: هانگول	 Source: WIKIDATA
+	Translations FOR SYNSET WNTR:FA:چنین -- ID: bn:00117173r
+		>Sense: چنین	 Source: WNTR
+SL word: receive
+	Translations FOR SYNSET OMWN_FA:FA:متحمل_شدن -- ID: bn:00088208v
+		>Sense: وارد_آمدن	 Source: OMWN_FA
+		>Sense: متحمل_شدن	 Source: OMWN_FA
+		>Sense: دریافت	 Source: WNTR
+		>Sense: پیدا	 Source: WNTR
+		>Sense: پیدا_کردن	 Source: WNTR
+	Translations FOR SYNSET bn:14579499n -- ID: bn:14579499n
+	Translations FOR SYNSET bn:00091603v -- ID: bn:00091603v
+	Translations FOR SYNSET WIKT:FA:گرفتن‎ -- ID: bn:00088740v
+		>Sense: گرفتن‎	 Source: WIKT
+	Translations FOR SYNSET WNTR:FA:دریافت -- ID: bn:00089891v
+		>Sense: دریافت	 Source: WNTR
+	Translations FOR SYNSET OMWIKI:FA:دریافت_کردن -- ID: bn:00089246v
+		>Sense: دریافت	 Source: WNTR
+		>Sense: دریافت_کردن	 Source: OMWIKI
+		>Sense: گرفتن	 Source: OMWIKI
+	Translations FOR SYNSET bn:00087863v -- ID: bn:00087863v
+	Translations FOR SYNSET bn:00087598v -- ID: bn:00087598v
+	Translations FOR SYNSET bn:00092490v -- ID: bn:00092490v
+	Translations FOR SYNSET OMWN_FA:FA:خوشامد_گفتن -- ID: bn:00092491v
+		>Sense: خوشامد_گفتن	 Source: OMWN_FA
+	Translations FOR SYNSET bn:00092492v -- ID: bn:00092492v
+	Translations FOR SYNSET bn:00092493v -- ID: bn:00092493v
+	Translations FOR SYNSET bn:00092494v -- ID: bn:00092494v
+	Translations FOR SYNSET bn:00092495v -- ID: bn:00092495v
+SL word: consider
+	Translations FOR SYNSET bn:00085650v -- ID: bn:00085650v
+	Translations FOR SYNSET OMWN_FA:FA:دیدن -- ID: bn:00085653v
+		>Sense: دیدن	 Source: OMWN_FA
+		>Sense: دیدن‎	 Source: WIKT
+	Translations FOR SYNSET bn:00085654v -- ID: bn:00085654v
+	Translations FOR SYNSET OMWN_FA:FA:تعمد_کردن -- ID: bn:00085651v
+		>Sense: سکالیدن‎	 Source: WIKT
+		>Sense: کنکاش_کردن	 Source: OMWN_FA
+		>Sense: دادخواهی_کردن	 Source: OMWN_FA
+		>Sense: عمدا_انجام_دادن	 Source: OMWN_FA
+		>Sense: تعمد_کردن	 Source: OMWN_FA
+	Translations FOR SYNSET OMWN_FA:FA:نگاه_کردن -- ID: bn:00085652v
+		>Sense: نگاه_کردن	 Source: OMWN_FA
+	Translations FOR SYNSET WNTR:FA:مشاهده -- ID: bn:00085647v
+		>Sense: مشاهده	 Source: WNTR
+	Translations FOR SYNSET bn:02077283n -- ID: bn:02077283n
+	Translations FOR SYNSET bn:00085648v -- ID: bn:00085648v
+	Translations FOR SYNSET WIKT:FA:فکر_کردن‎ -- ID: bn:00083370v
+		>Sense: فکر_می_کنم	 Source: WNTR
+		>Sense: گمان_کردن‎	 Source: WIKT
+		>Sense: فکر_کردن‎	 Source: WIKT
+	Translations FOR SYNSET WNTR:FA:نگاهی_به -- ID: bn:00085649v
+		>Sense: نگاهی_به	 Source: WNTR
+	Translations FOR SYNSET bn:00679457n -- ID: bn:00679457n
+SL word: widespread
+	Translations FOR SYNSET OMWN_FA:FA:همه_جا_منتشر -- ID: bn:00102782a
+		>Sense: گسترده	 Source: OMWN_FA
+		>Sense: همه_جا_منتشر	 Source: OMWN_FA
+	Translations FOR SYNSET OMWN_FA:FA:همه_جا_منتشر -- ID: bn:00113864a
+		>Sense: همه_جا_منتشر	 Source: OMWN_FA
+		>Sense: گسترده	 Source: OMWN_FA
+SL word: interest
+	Translations FOR SYNSET WIKI:FA:توجه -- ID: bn:00007020n
+		>Sense: توجه	 Source: WNTR
+		>Sense: توجه	 Source: WIKI
+		>Sense: توجه	 Source: WIKIDATA
+		>Sense: توجه	 Source: WIKITR
+	Translations FOR SYNSET WNTR:FA:نگرانی -- ID: bn:00021556n
+		>Sense: نگرانی	 Source: WNTR
+	Translations FOR SYNSET bn:00089814v -- ID: bn:00089814v
+	Translations FOR SYNSET WIKI:FA:بهره -- ID: bn:00047080n
+		>Sense: بهره_(پول)	 Source: WIKIRED
+		>Sense: نرخ_بهره	 Source: WIKIDATA
+		>Sense: بهره	 Source: WIKIDATA
+		>Sense: بهره	 Source: WIKI
+	Translations FOR SYNSET WNTR:FA:علاقه -- ID: bn:00047081n
+		>Sense: علاقه	 Source: WNTR
+	Translations FOR SYNSET WIKI:FA:گروه_ذی‌نفوذ -- ID: bn:00047082n
+		>Sense: گروه_های_ذینفع	 Source: WNTR
+		>Sense: گروه_فشار	 Source: WIKIDATA
+		>Sense: گروه_ذینفوذ	 Source: WIKIRED
+		>Sense: گروه_ذی_نفوذ	 Source: WIKIRED
+		>Sense: گروه_فشار	 Source: WIKIRED
+		>Sense: گروه_ذينفوذ	 Source: WIKIRED
+		>Sense: گروه_ذي_نفوذ	 Source: WIKIRED
+		>Sense: گروه_های_لابی	 Source: WIKITR
+		>Sense: گروه_لابی	 Source: WIKITR
+		>Sense: گروه_ذي_نفوذ	 Source: WIKIRED
+		>Sense: گروه_ذی‌نفوذ	 Source: WIKI
+		>Sense: گروه_فشار	 Source: WIKIRED
+		>Sense: گروه_ذی_نفوذ	 Source: WIKIRED
+		>Sense: گروه_ذينفوذ	 Source: WIKIRED
+		>Sense: گروه_ذینفوذ	 Source: WIKIRED
+		>Sense: گروه_لابی	 Source: WIKITR
+		>Sense: گروه_ذینفوذ	 Source: WIKIDATA
+		>Sense: گروه_ذی_نفوذ	 Source: WIKIDATA
+		>Sense: گروه_ذی‌نفوذ	 Source: WIKIDATA
+		>Sense: منافع_خاص	 Source: WIKITR
+	Translations FOR SYNSET OMWN_FA:FA:تفریح -- ID: bn:00047083n
+		>Sense: تفریح_و_سرگرمی	 Source: WIKITR
+		>Sense: سرگرمی	 Source: WNTR
+		>Sense: تفریح	 Source: OMWN_FA
+	Translations FOR SYNSET bn:00089815v -- ID: bn:00089815v
+	Translations FOR SYNSET OMWN_FA:FA:مربوط_بودن_به -- ID: bn:00085522v
+		>Sense: نگران_بودن	 Source: OMWN_FA
+		>Sense: مربوط_بودن_به	 Source: OMWN_FA
+	Translations FOR SYNSET WNTR:FA:علاقه -- ID: bn:00047077n
+		>Sense: علاقه	 Source: WNTR
+	Translations FOR SYNSET WNTR:FA:خاطر -- ID: bn:00047078n
+		>Sense: خاطر	 Source: WNTR
+		>Sense: منافع	 Source: WNTR
+	Translations FOR SYNSET WIKT:FA:اهتمام‎ -- ID: bn:00047079n
+		>Sense: interestingness	 Source: WNTR
+		>Sense: علاقه	 Source: WNTR
+		>Sense: اهتمام‎	 Source: WIKT
+	Translations FOR SYNSET WIKITR:FA:جالب -- ID: bn:15415647n
+		>Sense: جالب	 Source: WIKITR
+		>Sense: جالب_است	 Source: WIKITR
+SL word: number
+	Translations FOR SYNSET bn:02229722n -- ID: bn:02229722n
+	Translations FOR SYNSET bn:02929223n -- ID: bn:02929223n
+	Translations FOR SYNSET bn:00047689n -- ID: bn:00047689n
+	Translations FOR SYNSET bn:00090050v -- ID: bn:00090050v
+	Translations FOR SYNSET bn:15082377n -- ID: bn:15082377n
+	Translations FOR SYNSET bn:03894634n -- ID: bn:03894634n
+	Translations FOR SYNSET bn:00001079n -- ID: bn:00001079n
+	Translations FOR SYNSET WIKT:FA:شمردن‎ -- ID: bn:00085859v
+		>Sense: شمردن‎	 Source: WIKT
+	Translations FOR SYNSET bn:00082327v -- ID: bn:00082327v
+	Translations FOR SYNSET bn:00091103v -- ID: bn:00091103v
+	Translations FOR SYNSET WIKI:FA:شمار_(دستور_زبان) -- ID: bn:00058290n
+		>Sense: شمار_(دستور_زبان)	 Source: WIKIDATA
+		>Sense: شمار_(دستور_زبان)	 Source: WIKI
+		>Sense: شماره_دستوری	 Source: WIKITR
+		>Sense: paucal	 Source: WIKITR
+	Translations FOR SYNSET bn:00058291n -- ID: bn:00058291n
+	Translations FOR SYNSET bn:00085862v -- ID: bn:00085862v
+	Translations FOR SYNSET WNTR:FA:شماره_شناسایی -- ID: bn:00045820n
+		>Sense: شماره_شناسایی	 Source: WNTR
+	Translations FOR SYNSET WIKITR:FA:شماره_نیوجرسی -- ID: bn:02575658n
+		>Sense: شماره_پیراهن	 Source: WIKITR
+		>Sense: شماره_نیوجرسی	 Source: WIKITR
+		>Sense: شماره_یکنواخت	 Source: WIKITR
+	Translations FOR SYNSET WIKI:FA:عدد -- ID: bn:00058285n
+		>Sense: تعداد	 Source: WNTR
+		>Sense: شماره	 Source: WIKIRED
+		>Sense: سیستم_شماره	 Source: WIKITR
+		>Sense: سیستم_شماره	 Source: WIKITR
+		>Sense: عدد	 Source: WIKIQU
+		>Sense: عدد	 Source: WIKIDATA
+		>Sense: اعداد	 Source: WIKIRED
+		>Sense: عدد	 Source: WIKI
+		>Sense: عدد	 Source: OMWIKI
+	Translations FOR SYNSET WIKT:FA:شماره_تلفن‎ -- ID: bn:00058286n
+		>Sense: شماره_دسترسی	 Source: MSTERM
+		>Sense: شماره_تلفن	 Source: WNTR
+		>Sense: شماره	 Source: WNTR
+		>Sense: شماره_تلفن‎	 Source: WIKT
+		>Sense: شماره_تلفن	 Source: WIKITR
+		>Sense: شماره_تلفن	 Source: WIKITR
+		>Sense: شماره_تلفن	 Source: WIKITR
+	Translations FOR SYNSET WIKT:FA:رقم‎ -- ID: bn:00034394n
+		>Sense: رقم‎	 Source: WIKT
+		>Sense: شماره‎	 Source: WIKT
+		>Sense: عدد‎	 Source: WIKT
+		>Sense: تعدادی	 Source: WNTR
+	Translations FOR SYNSET WIKI:FA:نظریه_اعداد -- ID: bn:00058298n
+		>Sense: تاريخچه_نظريه_اعداد	 Source: WIKIRED
+		>Sense: تاریخچه_نظریه_اعداد	 Source: WIKIRED
+		>Sense: نظریه‌ی_اعداد	 Source: WIKIRED
+		>Sense: تئوری_اعداد	 Source: WIKIRED
+		>Sense: تاریخچهٔ_نظریهٔ_اعداد	 Source: WIKIRED
+		>Sense: نظریهٔ_اعداد	 Source: WIKIRED
+		>Sense: نظريه_ي_اعداد	 Source: WIKIRED
+		>Sense: نظريهٔ_اعداد	 Source: WIKIRED
+		>Sense: پیشینه_نظریه_اعداد	 Source: WIKIRED
+		>Sense: تئوري_اعداد	 Source: WIKIRED
+		>Sense: تاريخچهٔ_نظريهٔ_اعداد	 Source: WIKIRED
+		>Sense: نظريه_اعداد	 Source: WIKIRED
+		>Sense: نظریه_اعداد	 Source: WIKI
+		>Sense: پيشينه_نظريه_اعداد	 Source: WIKIRED
+		>Sense: نظریه_ی_اعداد	 Source: WIKIRED
+		>Sense: نظریه_اعداد،	 Source: WIKITR
+		>Sense: نظریه_اعداد	 Source: WIKIDATA
+		>Sense: نظریه_پرداز_شماره	 Source: WNTR
+	Translations FOR SYNSET WIKI:FA:عددنویسه -- ID: bn:00058287n
+		>Sense: عدد	 Source: WNTR
+		>Sense: شماره‌نما	 Source: WIKIRED
+		>Sense: شماره‌نما	 Source: WIKIDATA
+		>Sense: شماره_نما	 Source: WIKIRED
+		>Sense: عددنویسه	 Source: WIKIDATA
+		>Sense: عددنویسه	 Source: WIKI
+		>Sense: عددنويسه	 Source: WIKIRED
+		>Sense: اعداد	 Source: WIKITR
+	Translations FOR SYNSET bn:00058288n -- ID: bn:00058288n
+	Translations FOR SYNSET bn:00090399v -- ID: bn:00090399v
+	Translations FOR SYNSET bn:00058289n -- ID: bn:00058289n
+SL word: voter
+	Translations FOR SYNSET bn:14218541n -- ID: bn:14218541n
+	Translations FOR SYNSET OMWN_FA:FA:رای_دهنده -- ID: bn:00030122n
+		>Sense: رای_دهنده	 Source: WNTR
+		>Sense: رای_دهنده	 Source: OMWN_FA
+		>Sense: رای_دهندگان	 Source: WIKITR
+		>Sense: رای_دهنده‎	 Source: WIKT
+SL word: size
+	Translations FOR SYNSET WIKI:FA:گراف_(ریاضی) -- ID: bn:02612327n
+		>Sense: گراف_بدون_جهت	 Source: WIKITR
+		>Sense: گراف_(رياضي)	 Source: WIKIRED
+		>Sense: گراف_(ریاضی)	 Source: WIKI
+		>Sense: گراف	 Source: WIKIDATA
+		>Sense: منظور	 Source: WIKITR
+		>Sense: گراف	 Source: WIKITR
+		>Sense: گراف_تقدم_و_پردازش_هم‌زمان	 Source: WIKIRED
+		>Sense: گراف_تقدم_و_پردازش_هم_زمان	 Source: WIKIRED
+		>Sense: گراف_ساده	 Source: WIKITR
+		>Sense: سفارش	 Source: WIKITR
+		>Sense: لبه	 Source: WIKITR
+	Translations FOR SYNSET bn:02700853n -- ID: bn:02700853n
+	Translations FOR SYNSET bn:00110703a -- ID: bn:00110703a
+	Translations FOR SYNSET bn:15234561n -- ID: bn:15234561n
+	Translations FOR SYNSET bn:15093674n -- ID: bn:15093674n
+	Translations FOR SYNSET bn:00093792v -- ID: bn:00093792v
+	Translations FOR SYNSET bn:00093791v -- ID: bn:00093791v
+	Translations FOR SYNSET bn:00093793v -- ID: bn:00093793v
+	Translations FOR SYNSET WIKI:FA:نوع_داده -- ID: bn:00016413n
+		>Sense: نوع_داده	 Source: WIKITR
+		>Sense: تايپ_هاي_داده	 Source: WIKIRED
+		>Sense: نوع_داده	 Source: WIKI
+		>Sense: تایپ_های_داده	 Source: WIKIRED
+		>Sense: نوع_داده	 Source: WIKIDATA
+		>Sense: نوع_داده_ها	 Source: MSTERM
+	Translations FOR SYNSET WNTR:FA:اندازه_آن -- ID: bn:00071890n
+		>Sense: اندازه_آن	 Source: WNTR
+	Translations FOR SYNSET bn:00071891n -- ID: bn:00071891n
+	Translations FOR SYNSET bn:10569816n -- ID: bn:10569816n
+	Translations FOR SYNSET BABELNET:FA:size -- ID: bn:03645138n
+		>Sense: size	 Source: BABELNET
+	Translations FOR SYNSET OMWN_FA:FA:اندازه -- ID: bn:00071889n
+		>Sense: اندازه	 Source: WIKITR
+		>Sense: اندازه	 Source: OMWN_FA
+		>Sense: اندازه	 Source: WNTR
+	Translations FOR SYNSET WNTR:FA:قدر -- ID: bn:00052757n
+		>Sense: قدر	 Source: WNTR
+	Translations FOR SYNSET WNTR:FA:اندازه -- ID: bn:00071887n
+		>Sense: اندازه	 Source: WNTR
+	Translations FOR SYNSET WIKITR:FA:کاردینالیتی -- ID: bn:00015973n
+		>Sense: کاردینالیتی	 Source: WNTR
+		>Sense: کاردینالیتی	 Source: WIKITR
+	Translations FOR SYNSET bn:00071888n -- ID: bn:00071888n
+SL word: city
+	Translations FOR SYNSET WIKI:FA:استان‌های_جمهوری_خلق_چین -- ID: bn:16304981n
+		>Sense: استان‌های_چین	 Source: WIKIDATA
+		>Sense: استان‌های_چین	 Source: WIKIRED
+		>Sense: استان_های_چین	 Source: WIKIRED
+		>Sense: استان‌های_جمهوری_خلق_چین	 Source: WIKI
+		>Sense: استان_هاي_چين	 Source: WIKIRED
+		>Sense: تقسيمات_كشوري_چين	 Source: WIKIRED
+		>Sense: تقسیمات_کشوری_جمهوری_خلق_چین	 Source: WIKIDATA
+	Translations FOR SYNSET bn:16345015n -- ID: bn:16345015n
+	Translations FOR SYNSET bn:15839753n -- ID: bn:15839753n
+	Translations FOR SYNSET bn:00163144n -- ID: bn:00163144n
+	Translations FOR SYNSET BABELNET:FA:City -- ID: bn:01293838n
+		>Sense: City	 Source: BABELNET
+	Translations FOR SYNSET bn:04062159n -- ID: bn:04062159n
+	Translations FOR SYNSET WIKI:FA:التستاد_(زوریخ) -- ID: bn:17142448n
+		>Sense: limmatquai	 Source: WIKITR
+		>Sense: bürkliplatz،	 Source: WIKITR
+		>Sense: التستاد_(زوریخ)	 Source: WIKIDATA
+		>Sense: bürkliplatz	 Source: WIKITR
+		>Sense: التستاد_(زوريخ)	 Source: WIKIRED
+		>Sense: التستاد_(زوریخ)	 Source: WIKI
+	Translations FOR SYNSET WIKI:FA:شهر_(فیلم_۱۹۳۹) -- ID: bn:03556445n
+		>Sense: شهر_(فیلم_۱۹۳۹)	 Source: WIKI
+		>Sense: شهر_(فیلم_۱۹۳۹)	 Source: WIKIDATA
+	Translations FOR SYNSET WIKITR:FA:دهکده -- ID: bn:03174083n
+		>Sense: دهکده	 Source: WIKITR
+		>Sense: شهر	 Source: WIKITR
+		>Sense: شهر	 Source: WIKITR
+		>Sense: روستای	 Source: WIKITR
+	Translations FOR SYNSET bn:00404652n -- ID: bn:00404652n
+	Translations FOR SYNSET WIKI:FA:شهر_(فیلم_۱۹۹۴) -- ID: bn:02714505n
+		>Sense: شهر_(فیلم_۱۹۹۴)	 Source: WIKI
+		>Sense: شهر_(فیلم_۱۹۹۴)	 Source: WIKIDATA
+	Translations FOR SYNSET OMWN_FA:FA:شهر -- ID: bn:00019319n
+		>Sense: شهری_مرکز	 Source: WNTR
+		>Sense: کلان_شهر	 Source: OMWN_FA
+		>Sense: شهر	 Source: OMWN_FA
+		>Sense: مادرشهر	 Source: OMWN_FA
+		>Sense: شهر_بزرگ	 Source: OMWN_FA
+		>Sense: شهر	 Source: WNTR
+		>Sense: شهر	 Source: OMWIKI
+		>Sense: کلان‌شهر	 Source: WIKIDATA
+		>Sense: مادرشهر	 Source: WIKIRED
+		>Sense: متروپوليتن	 Source: WIKIRED
+		>Sense: متروپولیتن	 Source: WIKIRED
+		>Sense: کلان‌شهر	 Source: WIKI
+		>Sense: متروپلیس	 Source: WIKIRED
+		>Sense: کلانشهر	 Source: WIKT
+		>Sense: متروپل	 Source: WIKT
+		>Sense: كلان_شهر	 Source: WIKIRED
+		>Sense: كلانشهر	 Source: WIKIRED
+		>Sense: کلانشهر	 Source: WIKIRED
+		>Sense: کلان_شهر	 Source: WIKIRED
+		>Sense: مرکز_شهری	 Source: WIKITR
+	Translations FOR SYNSET bn:01762680n -- ID: bn:01762680n
+	Translations FOR SYNSET bn:00978351n -- ID: bn:00978351n
+	Translations FOR SYNSET bn:03513081n -- ID: bn:03513081n
+	Translations FOR SYNSET bn:03064717n -- ID: bn:03064717n
+	Translations FOR SYNSET WIKI:FA:شهر_(فیلم_۱۹۱۶) -- ID: bn:16551981n
+		>Sense: شهر_(فیلم_۱۹۱۶)	 Source: WIKIDATA
+		>Sense: شهر_(فیلم_۱۹۱۶)	 Source: WIKI
+	Translations FOR SYNSET bn:02257528n -- ID: bn:02257528n
+	Translations FOR SYNSET bn:17367354n -- ID: bn:17367354n
+	Translations FOR SYNSET bn:15739877n -- ID: bn:15739877n
+	Translations FOR SYNSET bn:01792306n -- ID: bn:01792306n
+	Translations FOR SYNSET bn:14826438n -- ID: bn:14826438n
+	Translations FOR SYNSET WIKITR:FA:شهر -- ID: bn:02242181n
+		>Sense: شهر	 Source: WIKITR
+	Translations FOR SYNSET WIKI:FA:شهرک -- ID: bn:00077773n
+		>Sense: شهر	 Source: WNTR
+		>Sense: شهر	 Source: WIKITR
+		>Sense: شهر_های_کوچک	 Source: WIKITR
+		>Sense: شهرك	 Source: WIKIRED
+		>Sense: شهر‎	 Source: WIKT
+		>Sense: شهرک	 Source: WIKI
+		>Sense: شهرک	 Source: WIKIDATA
+	Translations FOR SYNSET WIKI:FA:شهر_(فیلم_۱۹۹۸) -- ID: bn:00704278n
+		>Sense: شهر_(فیلم_۱۹۹۸)	 Source: WIKI
+		>Sense: شهر_(فیلم_۱۹۹۸)	 Source: WIKIDATA
+	Translations FOR SYNSET WIKI:FA:شهر_(فیلم_۱۹۲۶) -- ID: bn:03052754n
+		>Sense: شهر_(فیلم_۱۹۲۶)	 Source: WIKIDATA
+		>Sense: شهر_(فیلم_۱۹۲۶)	 Source: WIKI
+	Translations FOR SYNSET bn:16043312n -- ID: bn:16043312n
+	Translations FOR SYNSET bn:01245268n -- ID: bn:01245268n
+	Translations FOR SYNSET bn:14101823n -- ID: bn:14101823n
+	Translations FOR SYNSET bn:02622483n -- ID: bn:02622483n
+	Translations FOR SYNSET bn:05336361n -- ID: bn:05336361n
+	Translations FOR SYNSET WIKI:FA:جورجیا -- ID: bn:00030607n
+		>Sense: جورجيا	 Source: WIKIRED
+		>Sense: جورجیا‎	 Source: WIKT
+		>Sense: ايالت_جورجيا	 Source: WIKIRED
+		>Sense: جورجیا_(آمریکا)	 Source: WIKIRED
+		>Sense: جورجیا،	 Source: WIKITR
+		>Sense: جرجيا	 Source: WIKIRED
+		>Sense: ایالت_جورجیا	 Source: WIKIRED
+		>Sense: جورجیا_(امریکا)	 Source: WIKIRED
+		>Sense: جورجيا_(امريكا)	 Source: WIKIRED
+		>Sense: جورجيا_(ايالات_متحده)	 Source: WIKIRED
+		>Sense: جورجیا_(ایالات_متحده)	 Source: WIKIRED
+		>Sense: جورجیا	 Source: WIKIDATA
+		>Sense: جرجیا	 Source: WIKIRED
+		>Sense: جورجیا	 Source: WIKI
+		>Sense: جورجيا_(آمريكا)	 Source: WIKIRED
+		>Sense: حالت_امپراتوری_از_جنوب	 Source: WNTR
+		>Sense: گرجستان	 Source: WNTR
+		>Sense: امور_خارجه_هلو	 Source: WNTR
+		>Sense: Geórgia	 Source: BABELNET
+	Translations FOR SYNSET WIKITR:FA:اینوییت_محفوظ_است_زمین -- ID: bn:02874423n
+		>Sense: شهرداری	 Source: WIKITR
+		>Sense: شهرداری_روستای	 Source: WIKITR
+		>Sense: شهرداری_کری_روستا	 Source: WIKITR
+		>Sense: اینوییت_محفوظ_است_زمین	 Source: WIKITR
+		>Sense: کری_زمین_محفوظ_است	 Source: WIKITR
+		>Sense: شهرداری_اهل_محله	 Source: WIKITR
+		>Sense: شهرداری_شهرستان	 Source: WIKITR
+		>Sense: شهرداری_شهرستان	 Source: WIKITR
+		>Sense: شهر	 Source: WIKITR
+	Translations FOR SYNSET bn:01426301n -- ID: bn:01426301n
+	Translations FOR SYNSET OMWN_FA:FA:شهر -- ID: bn:00019321n
+		>Sense: مادرشهر	 Source: OMWN_FA
+		>Sense: شهر_بزرگ	 Source: OMWN_FA
+		>Sense: کلان_شهر	 Source: OMWN_FA
+		>Sense: شهر	 Source: OMWN_FA
+	Translations FOR SYNSET bn:03794916n -- ID: bn:03794916n
+	Translations FOR SYNSET GEONM:FA:آلاسکا -- ID: bn:00002335n
+		>Sense: ak	 Source: WNTR
+		>Sense: آخرین_مرز	 Source: WNTR
+		>Sense: آلاسکا	 Source: WNTR
+		>Sense: آلاسکا	 Source: WNTR
+		>Sense: آلاسکا	 Source: GEONM
+		>Sense: آلاسکا	 Source: WIKIDATA
+		>Sense: ایالت_الاسکا	 Source: WIKIRED
+		>Sense: الاسكا	 Source: WIKIRED
+		>Sense: ايالت_الاسكا	 Source: WIKIRED
+		>Sense: ايالت_آلاسكا	 Source: WIKIRED
+		>Sense: آلاسكا	 Source: WIKIRED
+		>Sense: آلاسکا	 Source: WIKI
+		>Sense: ایالت_آلاسکا	 Source: WIKIRED
+		>Sense: الاسکا	 Source: WIKIRED
+		>Sense: آلاسکا	 Source: WIKT
+		>Sense: Alaska	 Source: BABELNET
+	Translations FOR SYNSET bn:03805974n -- ID: bn:03805974n
+	Translations FOR SYNSET bn:01448038n -- ID: bn:01448038n
+	Translations FOR SYNSET bn:15642076n -- ID: bn:15642076n
+	Translations FOR SYNSET bn:03633301n -- ID: bn:03633301n
+	Translations FOR SYNSET bn:01851726n -- ID: bn:01851726n
+	Transl

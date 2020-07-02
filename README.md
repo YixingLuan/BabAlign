@@ -39,7 +39,7 @@ Then, it uses BabelNet translations again to fix wrong or missing alignment link
 
 To create the input data for BabelAlign, following preprocessing steps are required.
 
-### [get_tagged_idx_list.py]() - Save source forcus words
+### [get_tagged_idx_list.py](https://github.com/YixingLuan/BabelAlign/blob/master/preprocess/get_tagged_idx_list.py) - Save source forcus words
 
 BabelAlign takes a list of source focus words with their token ids in the source sentences to obtain aligned translations for them. 
 
@@ -79,12 +79,12 @@ Tagged id is the id used to indicate the source focus word. For the source words
 You can check the processed tsv files for Senseval and SemEval test sets under [wsd_data]() to see the actual format. 
 
 
-### [get_lemma_pos_from_treetagger.py]() - Lemmatization and POS tagging
+### [get_lemma_pos_from_treetagger.py](https://github.com/YixingLuan/BabelAlign/blob/master/preprocess/get_lemma_pos_from_treetagger.py) - Lemmatization and POS tagging
 
 Tokenization, lemmatization and POS taggeing are required to run BabelAlign.
 If your data has those information, you can keep using them.
 If don't, you have to run TreeTagger to obtain lemmatized and POS tagged text. 
-After installing TreeTagger under [preprocess](), run `get_lemma_pos_from_treetagger.py` follwing the description below.
+After installing TreeTagger (directory named `TreeTagger`) under [preprocess](https://github.com/YixingLuan/BabelAlign/blob/master/preprocess/), run `get_lemma_pos_from_treetagger.py` follwing the description below.
 
 Usage description:
 
@@ -110,6 +110,8 @@ This script will produce lemmatized source text (raw text) and POS text ({n, v, 
 
 
 ## BabelNet Query
+
+### [get_babelmappings.py](https://github.com/YixingLuan/BabelAlign/blob/master/BabelNetQuery) - Querying BabelNet to obtain possible translations. 
 
 After you download the local BabelNet java API and place the API directory (named `BabelNet-API-4.0.1`) under `BabelNetQuery` directory, you can run `get_babelmappings.py` to query possible translations. 
 It will call `ExtractBabelSynsetIDs.java` and `ExtractBabelSynsetIDs.java` to query the stored BabelNet API.
@@ -150,6 +152,8 @@ If you want to run `get_babelmappings.py` from different directory, you have to 
 
 
 ## Create Input Data
+
+### [combine_input.py](https://github.com/YixingLuan/BabelAlign/blob/master/combine_input.py) - Combine test data, additional bitexts, and BabelNet translations to create the input data.
 
 Using the lemmatized data, BabelNet translations, and additional bitexts (optional), `combine_input.py` will create the input data for the base aligner.
 
@@ -202,7 +206,9 @@ $ fast_align/build/atools -i output_name_forward -j output_name_reverse -c inter
 The first 2 commands can be omitted if path to C++ compiler is properly set in your machine. 
 
 
-## Run BabelAlign
+## BabelAlign
+
+### [babelalign.py](https://github.com/YixingLuan/BabelAlign/blob/master/babelalign.py) - Run BabelAlign.
 
 Finally, everything is ready for running BabelAlign.
 
@@ -258,16 +264,16 @@ In the following example commands, we assume we have French translation `senseva
 $ cd BabelAlign/
 
 # preprocess
-$ python3 get_tagged_idx_list.py -s wsd_data/senseval2.tagged.lemma.pos.tsv
-$ python3 get_lemma_pos_from_treetagger.py -i senseval2.fr.txt -l FR \
-                                           --lem senseval2.fr.lem.txt \
-                                           --pos senseval2.fr.pos.txt 
-$ python3 get_lemma_pos_from_treetagger.py -i OpenSubtitles.en-fr.en -l EN \
-                                           --lem OpenSubtitles.en-fr.en.lem.txt \
-                                           --pos OpenSubtitles.en-fr.en.pos.txt 
-$ python3 get_lemma_pos_from_treetagger.py -i OpenSubtitles.en-fr.fr -l FR \
-                                           --lem OpenSubtitles.en-fr.fr.lem.txt \
-                                           --pos OpenSubtitles.en-fr.fr.pos.txt 
+$ python3 preprocess/get_tagged_idx_list.py -s wsd_data/senseval2.tagged.lemma.pos.tsv
+$ python3 preprocess/get_lemma_pos_from_treetagger.py -i senseval2.fr.txt -l FR \
+                                                      --lem senseval2.fr.lem.txt \
+                                                      --pos senseval2.fr.pos.txt 
+$ python3 preprocess/get_lemma_pos_from_treetagger.py -i OpenSubtitles.en-fr.en -l EN \
+                                                      --lem OpenSubtitles.en-fr.en.lem.txt \
+                                                      --pos OpenSubtitles.en-fr.en.pos.txt 
+$ python3 preprocess/get_lemma_pos_from_treetagger.py -i OpenSubtitles.en-fr.fr -l FR \
+                                                      --lem OpenSubtitles.en-fr.fr.lem.txt \
+                                                      --pos OpenSubtitles.en-fr.fr.pos.txt 
 
 # Query BabelNet
 $ cd BabelNetQuery/
