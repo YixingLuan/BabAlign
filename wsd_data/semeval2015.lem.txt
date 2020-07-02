@@ -1,0 +1,138 @@
+this document be a summary of the european public assessment report ( epar ) .
+it explain how the committee for medicinal product for human use ( chmp ) assess the study perform , to reach they recommendation on how to use the medicine .
+if you need more information about you medical condition or you treatment , read the package leaflet ( also part of the epar ) or contact you doctor or pharmacist .
+if you want more information on the basis of the chmp recommendation , read the scientific discussion ( also part of the epar ) .
+what be alimta ?
+alimta be a powder that be make_up into a solution for infusion ( drip into a vein ) .
+it contain the active substance pemetrex .
+what be alimta use for ?
+alimta be use to treat two type of cancer : pleural mesothelioma ( cancer of the lining of the lung that be usually cause by exposure to asbestos ) .
+alimta be use together_with cisplatin ( another anticancer medicine ) when the cancer be unresectable ( cannot be remove by surgery alone ) and malignant ( have spread , or be likely to spread easily , to other part of the body ) , in patient who have not receive chemotherapy ( medicine for cancer ) before advanced or metastatic non-small cell lung_cancer that be not affect the squamous_cell .
+alimta be use in combination with cisplatin in patient who have not be treat before , and on its own in patient who have receive another type of chemotherapy in the past .
+the medicine can only be obtain with a prescription .
+how be alimta use ?
+alimta should only be give under the supervision of a doctor who be qualify in the use of anticancer chemotherapy .
+the recommend dose of alimta be 500 mg per square_metre of body surface_area ( calculate use the patient s height and weight ) .
+it be give once every three week as a intravenous infusion last 10 minute .
+to reduce side_effect , patient should take a corticosteroid and folic_acid ( a type of vitamin ) , and receive injection of vitamin_b12 during treatment with alimta .
+when alimta be give with cisplatin , a anti-emetic medicine ( to prevent vomit ) and fluid ( to prevent dehydration ) should also be give before or after the cisplatin dose .
+treatment should be delay or discontinue , or the dose reduce , in patient whose blood_count be abnormal or who have certain other side_effect .
+alimta be not recommend for use in patient with moderate or severe kidney problem .
+for more information , see the summary of product characteristic ( also part of the epar ) .
+how do alimta work ?
+the active substance in alimta , pemetrex , be a cytotoxic medicine ( a medicine that kill cell that be divide , such as cancer_cell ) , which belong_to the group antimetabolite .
+in the body , pemetrex be convert into a active form that block the activity of the enzyme that be involve in produce nucleotide ( the building_block of dna and rna , the genetic material of cell ) .
+how have alimta be study ?
+for the treatment of malignant pleural mesothelioma , alimta have be study in one main study in 456 patient who have not receive chemotherapy for they disease before .
+the effect of alimta in combination with cisplatin be compare with those of cisplatin alone .
+for the treatment of non-small cell lung_cancer , the effect of alimta be compare with those of docetaxel ( another anticancer medicine ) in one study involve 571 patient with locally advanced or metastatic disease who have receive chemotherapy in the past .
+alimta be also compare with gemcitabine ( another anticancer medicine ) , both in combination with cisplatin , in a study involve 1,725 patient who have not receive chemotherapy for lung_cancer in the past .
+in all three study , the main measure of effectiveness be how long the patient survive .
+what benefit have alimta show during the study ?
+alimta increase the survival time of patient with malignant pleural mesothelioma .
+patient receive alimta and cisplatin survive for a average of 12.1 month , compare with 9.3 month in those receive cisplatin alone .
+in the treatment of patient with non-small cell lung_cancer , alimta be as effective as the comparator .
+in patient who have receive chemotherapy in the past , the average survival time be 8.3 month with alimta , compare with 7.9 month with docetaxel .
+in patient who have not receive chemotherapy in the past , the average survival time be 10.3 month in both group .
+however , in both study , patient whose cancer be not affect squamous_cell have long survival time if they receive alimta than if they receive the comparator .
+in contrast , patient whose cancer be affect squamous_cell have short survival time if they receive alimta .
+kalgebra be a mathematical calculator base on content markup mathml language .
+nowadays it be capable to make simple mathml operation ( arithmetic and logical ) and to representate 2d and 3d graph .
+it be actually not necessary to know mathml to use kalgebra .
+kalgebra be a mathml base graph calculator .
+although it be initially mathml orient it can now be use by everyone with little mathematical knowledge .
+here ' a screenshot of kalgebra main window
+kalgebra main window
+kalgebra main window consist in a console tab , a 2d graph tab , a 3d graph tab and a dictionary tab .
+below these tab you will find a input field to type you function or do you calculation .
+if we want to understand how it work , the best thing we can do be to realize that we input be be convert into mathml although it be not necessary to know mathml .
+I have base the syntax basically on common_sense , it should not be hard for anyone .
+I ve look closely to maximum and maple s syntax so they look very similar .
++ - * / : addition , subtraction , multiplication and division .
+^ , ** : power , you can use they both .
+also it be possible to use the unicode ² character .
+power be one way to make root too .
+-gt : it s the way to specify the bounded variable in a function .
+( ) : it be use to specify a high priority .
+abc(params) : when the parser find a function , it check if abc be a operator .
+if it be , it will be treat as a operator , if it be not , it will be treat as a user function .
+: = : it be use to define a variable value .
+? : piecewise condition definition .
+piecewise be the way we can define conditional operation in kalgebra .
+if we introduce the condition before the ? it will use this condition only_if it be true , if it find a ? without any condition , it will enter in the last instance .
+{ } : mathml container .
+it can be use to define a container .
+mainly useful for work with piecewise .
+now you could ask I , why should the user mind about mathml ?
+that s easy . with this , we can operate with function like cos , sin , any other trigonometric function , sum () or product () .
+it do not matter what kind it be .
+we can use plus , times and everything which have its operator .
+kalgebra 's console be useful as a calculator .
+there you have a list of the declare variable .
+by double click on they you will see a dialog that let you change they value ( just a way to trick the log ) .
+every time you enter a expression , the " an " variable value will be change to the last result .
+ctrl n new window
+flush the log .
+ctrl l load script
+execute the instruction in a file sequentially .
+nice if you want to define some library or resume some previous work .
+ctrl g save script
+save the instruction you have type since the session begin to be able to reuse .
+generate text_file so it should be easy to fix use any text_editor , like kate .
+ctrl s save log
+save the log with all result into a html file to be able to print or publish .
+ctrl q quit
+shut the program down .
+to add a new 2d graph on kalgebra , what you have to do be to go to the 2d graph tab and click in the add tab to add the new function .
+then you focus will go to a input text box where you can type you function .
+if you want to use a typical f(x) function it be not necessary to specify it .
+if you have enter the function click on the ok button to display the graph in the main window .
+you can set several graph on the same view .
+just use the add button when you be in list mode .
+you can set each graph its own color .
+the foundation have recently be involve in organise a conference which deal with this critical challenge .
+over 100 participant from the main interest_group attend and debate issue such as the role of key actor include public authority , social partner , voluntary and community organisation as_well as service user .
+there be relatively few case report of attempt to involve user in service planning but they involvement in service provision be find to be more common .
+note be also take of the variety of different role play by public welfare
+the foundation organise , together with the european commission , the spanish ministry of social affairs and the galician regional government , a european conference on social exclusion : a major challenge for public welfare service .
+the foundation recently publish a comparative study as part of the epoc project which assess the extent to which direct participation can humanise work while increase profitability .
+the study be base on 195 personal interview with senior official of the social partner as representative of national level peak organisation in fifteen european country .
+as important industrial sector , the metal industry and the banking sector be also include .
+key speaker at the social exclusion conference be ( left to right ) cristina louro , employment , industrial relations and social_affair directorate , european commission fernando gome , a high degree of committee of the region barbara weiler , member of the european parliament josé marium gil-roble , vice_president , european parliament and john carroll , economic and social committee .
+case_study each national report contain a portfolio of between 25 and 30 initiative which best present policy and practice to improve the recruitment , training and development of age worker in both the work place and the community .
+for each country , two or three initiative have be select for further in depth case_study .
+these case_study analyse the background of the initiative , they impact on employment pattern and work organisation and assess the benefit and problem of the initiative .
+visit and interview with key personnel be also undertake .
+these national study will form the basis of a european report which synthesise overall practice .
+the report and a casebook of initiative will be publish in 1996 and provide the backdrop for a conference to be stage in autumn , 1996 .
+the foundation aim to document the characteristic of age barrier in job recruitment and training and to analyse they cause .
+the perspective of the social partner be also be examine , with particular attention pay to proposal for remove age barrier .
+thirdly , the project document and assess initiative , in both the public and private sector which combat age barrier , especially for old worker .
+seek alternative to early retirement and redundancy , the project be primarily concern with the retention , reintegrate and retrain of old worker .
+the gender and ethnic background of worker and how these relate to age discrimination be examine .
+the project also consider initiative to combat age discrimination in rural_area and in small and medium size enterprise .
+seven member state be cover by the project : belgium , france , germany , greece , italy , the netherland and the united kingdom .
+this document be a summary of the european public assessment report .
+it explain how the committee for medicinal product for veterinary use ( cvmp ) assess the study perform , to reach they recommendation on how to use the medicine .
+what be cerenia ?
+cerenia contain the active substance maropitant and be available as tablet or as solution for injection .
+the tablet be pale-orange and have a score line on both side so that they can be halve .
+each tablet be mark with the pfizer logo on one side and with the letter mpt and the quantity of maropitant on the other side .
+what be cerenia use for ?
+cerenia be a antiemetic , this mean that it stop vomit .
+it be use in dog to prevent vomit such as vomit cause by chemotherapy ( medicine use for the treatment of cancer , some of which be know to cause vomit ) .
+in combination with supportive measure such as other veterinary treatment or a special diet , cerenia can also be use in the treatment of vomiting ( either as injection or as injection follow by tablet ) .
+for these purpose , cerenia can be give for up to five day
+how do cerenia work ?
+cerenia block a neurokinin 1 ( nk1 ) receptor , which act in the central_nervous_system .
+how have cerenia be study ?
+a large_number of study with cerenia be carry_out either in laboratory dog or in animal patient at veterinary practise in several european_country and in the usa .
+what benefit have cerenia show during the study ?
+the result of the study show that cerenia be more effective than the placebo : less vomiting be see in dog that receive the medicine than in dog that receive a placebo , both in the treatment or in the prevention of vomiting .
+the treatment of a vomiting dog should be start with the injection , since vomiting animal might not be able to keep a tablet down ( as they might throw the intact tablet up again ) .
+for follow-up treatment , the animal owner can administer the tablet to the dog .
+also , the treatment of vomiting should only be together_with other supportive measure or other veterinary therapy while address the underlie cause of the vomiting .
+what be the risk associate with cerenia ?
+cerenia be generally well tolerate when administer daily at dosage up to 5 time the recommend dose for a extended period_of_time ( up to 3 time the recommend maximum duration of treatment ) .
+what be the precaution for the person who give the medicine or come_into contact with the animal ?
+cerenia do not represent a particular risk for people .
