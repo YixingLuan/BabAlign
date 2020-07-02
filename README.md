@@ -15,7 +15,7 @@ Then, it uses BabelNet translations again to fix wrong or missing alignment link
 - [BabelNet Query](#babelnet-query)
 - [Create Input Data](#create-input-data)
 - [Run the Base Aligner](#run-the-base-aligner)
-- [Run BabelAlign](#run-babelalign)
+- [BabelAlign](#babelalign)
 - [Usage Example](#usage-example)
 - [References](#references)
 
