@@ -105,7 +105,7 @@ def load_tagged_src_idx(f_name):
 def complete_match(tgt_idx, target_word, tgt_tok_list, lemma_pos_dict, babel_translations, properly_aligned_ids):
 
     ori_target_word = target_word # store the original target word
-    new_tgt_idx_list = []
+    new_tgt_idx_list = [tgt_idx]
     phrase_flag = 0
 
     previous_tokens_reverse = []
@@ -191,14 +191,11 @@ def Babelex_backoff(target_word, tgt_tok_list, lemma_pos_dict, babel_translation
         if lemma_pos_dict[str(t_idx)][1] == "x":
             continue
         if target_word in babel_translations:
-            new_tgt_idx_list.append(str(t_idx))
             break_flag += 1
             break
 
     if break_flag != 0: # if could find 1 token babelex --> try phrase check as well
-        new_target_word, new_tgt_idx_list_comp = complete_match(t_idx, target_word, tgt_tok_list, lemma_pos_dict, babel_translations, properly_aligned_ids)
-        for new_tgt_idx in new_tgt_idx_list_comp:
-            new_tgt_idx_list.append(new_tgt_idx)
+        new_target_word, new_tgt_idx_list = complete_match(str(t_idx), target_word, tgt_tok_list, lemma_pos_dict, babel_translations, properly_aligned_ids)
 
     else: # if cannot find babelex --> try it with partial matching
         for t_idx, target_word in enumerate(tgt_tok_list):
@@ -209,16 +206,16 @@ def Babelex_backoff(target_word, tgt_tok_list, lemma_pos_dict, babel_translation
             phrase_flag = 0
             for babel_t in babel_translations:
                 if target_word in babel_t:
-                    tmp_target_word, new_tgt_idx_list_comp = complete_match(t_idx, target_word, tgt_tok_list, lemma_pos_dict, babel_translations, properly_aligned_ids)
+                    tmp_target_word, new_tgt_idx_list = complete_match(str(t_idx), target_word, tgt_tok_list, lemma_pos_dict, babel_translations, properly_aligned_ids)
                     if tmp_target_word != target_word: # properly recovered phrase
                         new_target_word = tmp_target_word
-                        for new_tgt_idx in new_tgt_idx_list_comp:
-                            new_tgt_idx_list.append(new_tgt_idx)
-                        new_tgt_idx_list.append(str(t_idx))
                         phrase_flag += 1
                         break
             if phrase_flag != 0:
                 break
+
+        if phrase_flag == 0:
+            new_tgt_idx_list = []
 
     new_tgt_idx_list.sort(key=lambda x : int(x))
 
@@ -314,10 +311,8 @@ def finalize_alignment(src_tok_list, tgt_tok_list, align_idx_line, src_tgt_babel
                     target_word, new_tgt_idx_list = complete_match(tgt_idx, target_word, tgt_tok_list, tgt_lemma_pos_info, babel_translations, properly_aligned_ids)
                     for new_tgt_idx in new_tgt_idx_list:
                         properly_aligned_ids.add(new_tgt_idx)
-                    if new_tgt_idx_list != []:
-                        result_line = tag + "\t" + source_word + "\t" + target_word + "\t" + src_idx + "-" + ",".join(list(map(str, new_tgt_idx_list))) + "\n"
-                    else:
-                        result_line = tag + "\t" + source_word + "\t" + target_word + "\t" + src_idx + "-" + tgt_idx + "\n"
+                    result_line = tag + "\t" + source_word + "\t" + target_word + "\t" + src_idx + "-" + ",".join(list(map(str, new_tgt_idx_list))) + "\n"
+                
                 else: # if aligned translation is not in babelex --> try to find babelex in the sentence (babelex_backoff)
                     target_word, new_tgt_idx_list = Babelex_backoff(target_word, tgt_tok_list, tgt_lemma_pos_info, babel_translations, properly_aligned_ids)
                     for new_tgt_idx in new_tgt_idx_list:
