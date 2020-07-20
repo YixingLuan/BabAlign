@@ -135,6 +135,7 @@ arguments:
 ```
 
 The input data (--source) is the same data used for `get_tagged_idx_list.py`.
+
 If `--l2` is not given, it will store all translations from all languages in BabelNet.
 When the number of source focus words is large, specifying `--l2` is recommended to avoid out-of-memory issue.
 
