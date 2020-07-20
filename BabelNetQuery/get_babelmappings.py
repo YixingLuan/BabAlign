@@ -115,7 +115,7 @@ def get_lemma_bn_map(target_info, src_data, lang, current_path):
     return bn_syn_set, lemma_bnsyn_map
 
 
-def get_bn_trans_map(bn_syn_set, src_data, current_path):
+def get_bn_trans_map(bn_syn_set, src_data, current_path, src_lang, lang_list):
 
     # work around path 
     bn_in_name = ".".join(src_data.split("/")[-1].split(".")[:-1]) + ".in"
@@ -137,22 +137,44 @@ def get_bn_trans_map(bn_syn_set, src_data, current_path):
     subprocess.run(java_cmd2, shell=True)
     os.chdir(current_path)
 
-    with codecs.open(bn_out_name, "r", encoding="utf-8") as f:
-        bntrans_lines = f.readlines()
+    f = codecs.open(bn_out_name, "r", encoding="utf-8")
+    bntrans_line = f.readline()
 
     all_bn_lexicons = {}
-    for bntrans_line in bntrans_lines:
-        bntrans_line = bntrans_line.rstrip("\n").rstrip("\t")
-        bnsyn = bntrans_line.split("\t")[0]
-        trans_info_list = bntrans_line.split("\t")[1:]
-        possible_bn_lex = defaultdict(set)
-        for trans_info in trans_info_list:
-            trans_info = trans_info.replace(" ", "_")
-            source = trans_info.split(":")[0]
-            lang = trans_info.split(":")[1]
-            trans = trans_info.split(":")[2]
-            possible_bn_lex[lang].add(trans)
-        all_bn_lexicons[bnsyn] = possible_bn_lex
+
+    if lang_list == "":
+        while bntrans_line:
+            bntrans_line = bntrans_line.rstrip("\n").rstrip("\t")
+            bnsyn = bntrans_line.split("\t")[0]
+            trans_info_list = bntrans_line.split("\t")[1:]
+            possible_bn_lex = defaultdict(set)
+            for trans_info in trans_info_list:
+                trans_info = trans_info.replace(" ", "_")
+                source = trans_info.split(":")[0]
+                lang = trans_info.split(":")[1]
+                trans = trans_info.split(":")[2]
+                possible_bn_lex[lang].add(trans)
+            all_bn_lexicons[bnsyn] = possible_bn_lex
+            bntrans_line = f.readline()
+    else:
+        lang_list.append(src_lang) # need to add source language as well
+        while bntrans_line:
+            bntrans_line = bntrans_line.rstrip("\n").rstrip("\t")
+            bnsyn = bntrans_line.split("\t")[0]
+            trans_info_list = bntrans_line.split("\t")[1:]
+            possible_bn_lex = defaultdict(set)
+            for trans_info in trans_info_list:
+                trans_info = trans_info.replace(" ", "_")
+                source = trans_info.split(":")[0]
+                lang = trans_info.split(":")[1]
+                if lang in lang_list:
+                    trans = trans_info.split(":")[2]
+                    possible_bn_lex[lang].add(trans)
+            all_bn_lexicons[bnsyn] = possible_bn_lex
+            bntrans_line = f.readline()
+
+
+    f.close()
 
     rm_cmd = "rm -f " + bn_in_name
     subprocess.run(rm_cmd, shell=True)
@@ -189,7 +211,8 @@ def main():
     parser = argparse.ArgumentParser(description="query BabelNet for all translations of source focus words")
 
     parser.add_argument("-s", "--source", default="", help="tsv file for lemmatized tagged source side of the text with pos ({n, v, a, r, x} notations)") 
-    parser.add_argument("-l", "--lang", default="", help="language code of the source side")
+    parser.add_argument("--l1", default="", help="language code of the source side")
+    parser.add_argument("--l2", nargs="+", default="", help="(optional) list of language codes of the target side (can specify as many lanugages as you want (space-separated))")
 
     args = parser.parse_args()
 
@@ -199,9 +222,9 @@ def main():
     bnsyn_trans_map = codecs.open(mapping_name, "w", encoding="utf-8")
 
     target_info = get_target_info(source_name)
-    bn_syn_set, lemma_bnsyn_map = get_lemma_bn_map(target_info, source_name, args.lang, current_path)
+    bn_syn_set, lemma_bnsyn_map = get_lemma_bn_map(target_info, source_name, args.l1, current_path)
 
-    all_bn_lexicons = get_bn_trans_map(bn_syn_set, source_name, current_path)
+    all_bn_lexicons = get_bn_trans_map(bn_syn_set, source_name, current_path, args.l1, args.l2)
 
     for i_id, lemma_pos in target_info.items():
         if lemma_pos not in lemma_bnsyn_map: # not in current BabelNet version == not in new gold key file

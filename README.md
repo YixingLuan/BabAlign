@@ -122,17 +122,21 @@ Usage description:
 $ python3 get_babelmappings.py -h
 usage: get_babelmappings.py [-h]
                             [-s SOURCE]
-                            [-l LANG] 
+                            [--l1 L1] 
+                            [--l2 L2 [L2 ...]]
 
 Query BabelNet for all translations of source focus words.
 
 arguments:
   -h, --help       show this help message and exit
   -s, --source     tsv file for lemmatized tagged source side of the text with pos ({n, v, a, r, x} notations)
-  -l, --lang       language code of the input data 
+  --l1             language code of the input data 
+  --l2             (optional) list of language codes of the target side (can specify as many lanugages as you want (space-separated))
 ```
 
 The input data (--source) is the same data used for `get_tagged_idx_list.py`.
+If `--l2` is not given, it will store all translations from all languages in BabelNet.
+When the number of source focus words is large, specifying `--l2` is recommended to avoid out-of-memory issue.
 
 This script will produce 2 output files as follows:
 
@@ -277,7 +281,7 @@ $ python3 preprocess/get_lemma_pos_from_treetagger.py -i OpenSubtitles.en-fr.fr 
 
 # Query BabelNet
 $ cd BabelNetQuery/
-$ python3 get_babelmappings.py -s wsd_data/senseval2.tagged.lemma.pos.tsv -l EN
+$ python3 get_babelmappings.py -s wsd_data/senseval2.tagged.lemma.pos.tsv --l1 EN --l2 FR DE RU
 $ cd ../
 
 # Create input data
