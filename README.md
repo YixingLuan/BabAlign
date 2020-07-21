@@ -1,8 +1,8 @@
-# BabelAlign
+# BabAlign
 
-This repository includes the source code for BabelAlign. <!-- used in our [semeval2020 paper](url). -->
+This repository includes the source code for BabAlign. <!-- used in our [semeval2020 paper](url). -->
 
-BabelAlign is a precise knowledge-based word alignment algorithm using both an existing alignment tool and translations from BabelNet.
+BabAlign is a precise knowledge-based word alignment algorithm using both an existing alignment tool and translations from BabelNet.
 It first biases the alignment predictions of the base aligner by BabelNet translations. 
 Then, it uses BabelNet translations again to fix wrong or missing alignment links. 
 
@@ -15,7 +15,7 @@ Then, it uses BabelNet translations again to fix wrong or missing alignment link
 - [BabelNet Query](#babelnet-query)
 - [Create Input Data](#create-input-data)
 - [Run the Base Aligner](#run-the-base-aligner)
-- [BabelAlign](#babelalign)
+- [BabAlign](#babalign)
 - [Usage Example](#usage-example)
 - [References](#references)
 
@@ -37,11 +37,11 @@ Then, it uses BabelNet translations again to fix wrong or missing alignment link
 
 ## Preprocessing
 
-To create the input data for BabelAlign, following preprocessing steps are required.
+To create the input data for BabAlign, following preprocessing steps are required.
 
-### [get_tagged_idx_list.py](https://github.com/YixingLuan/BabelAlign/blob/master/preprocess/get_tagged_idx_list.py) - Save source forcus words
+### [get_tagged_idx_list.py](https://github.com/YixingLuan/BabAlign/blob/master/preprocess/get_tagged_idx_list.py) - Save source forcus words
 
-BabelAlign takes a list of source focus words with their token ids in the source sentences to obtain aligned translations for them. 
+BabAlign takes a list of source focus words with their token ids in the source sentences to obtain aligned translations for them. 
 
 Usage description:
 
@@ -79,12 +79,12 @@ Tagged id is the id used to indicate the source focus word. For the source words
 You can check the processed tsv files for Senseval and SemEval test sets under [wsd_data]() to see the actual format. 
 
 
-### [get_lemma_pos_from_treetagger.py](https://github.com/YixingLuan/BabelAlign/blob/master/preprocess/get_lemma_pos_from_treetagger.py) - Lemmatization and POS tagging
+### [get_lemma_pos_from_treetagger.py](https://github.com/YixingLuan/BabAlign/blob/master/preprocess/get_lemma_pos_from_treetagger.py) - Lemmatization and POS tagging
 
-Tokenization, lemmatization and POS taggeing are required to run BabelAlign.
+Tokenization, lemmatization and POS taggeing are required to run BabAlign.
 If your data has those information, you can keep using them.
 If don't, you have to run TreeTagger to obtain lemmatized and POS tagged text. 
-After installing TreeTagger (directory named `TreeTagger`) under [preprocess](https://github.com/YixingLuan/BabelAlign/blob/master/preprocess/), run `get_lemma_pos_from_treetagger.py` follwing the description below.
+After installing TreeTagger (directory named `TreeTagger`) under [preprocess](https://github.com/YixingLuan/BabAlign/blob/master/preprocess/), run `get_lemma_pos_from_treetagger.py` follwing the description below.
 
 Usage description:
 
@@ -111,7 +111,7 @@ This script will produce lemmatized source text (raw text) and POS text ({n, v, 
 
 ## BabelNet Query
 
-### [get_babelmappings.py](https://github.com/YixingLuan/BabelAlign/blob/master/BabelNetQuery) - Querying BabelNet to obtain possible translations. 
+### [get_babelmappings.py](https://github.com/YixingLuan/BabAlign/blob/master/BabelNetQuery) - Querying BabelNet to obtain possible translations. 
 
 After you download the local BabelNet java API and place the API directory (named `BabelNet-API-4.0.1`) under `BabelNetQuery` directory, you can run `get_babelmappings.py` to query possible translations. 
 It will call `ExtractBabelSynsetIDs.java` and `ExtractBabelSynsetIDs.java` to query the stored BabelNet API.
@@ -158,7 +158,7 @@ If you want to run `get_babelmappings.py` from different directory, you have to 
 
 ## Create Input Data
 
-### [combine_input.py](https://github.com/YixingLuan/BabelAlign/blob/master/combine_input.py) - Combine test data, additional bitexts, and BabelNet translations to create the input data.
+### [combine_input.py](https://github.com/YixingLuan/BabAlign/blob/master/combine_input.py) - Combine test data, additional bitexts, and BabelNet translations to create the input data.
 
 Using the lemmatized data, BabelNet translations, and additional bitexts (optional), `combine_input.py` will create the input data for the base aligner.
 
@@ -211,11 +211,11 @@ $ fast_align/build/atools -i output_name_forward -j output_name_reverse -c inter
 The first 2 commands can be omitted if path to C++ compiler is properly set in your machine. 
 
 
-## BabelAlign
+## BabAlign
 
-### [babelalign.py](https://github.com/YixingLuan/BabelAlign/blob/master/babelalign.py) - Run BabelAlign.
+### [babelalign.py](https://github.com/YixingLuan/BabAlign/blob/master/babelalign.py) - Run BabAlign.
 
-Finally, everything is ready for running BabelAlign.
+Finally, everything is ready for running BabAlign.
 
 Usage description:
 
@@ -233,7 +233,7 @@ usage: babelalign.py [-h]
                      [-o OUTPUT]
                      [--stop_complete]
 
-Improve alignment accuracy by BabelAlign.
+Improve alignment accuracy by BabAlign.
 
 arguments:
   -h, --help       show this help message and exit
@@ -262,11 +262,11 @@ If your data has tokenization / lemmatization / POS tags provided and you don't 
 
 ## Usage Example
 
-Here, we provide a list of example commands we used when running BabelAlign for Senseval-2 data.
+Here, we provide a list of example commands we used when running BabAlign for Senseval-2 data.
 In the following example commands, we assume we have French translation `senseval2.fr.txt` and `OpenSubtitles.en-fr` bitexts.
 
 ```
-$ cd BabelAlign/
+$ cd BabAlign/
 
 # preprocess
 $ python3 preprocess/get_tagged_idx_list.py -s wsd_data/senseval2.tagged.lemma.pos.tsv
@@ -302,7 +302,7 @@ $ fast_align/build/fast_align -i senseval2.en-fr.align_in -d -o -v > senseval2.e
 $ fast_align/build/fast_align -i senseval2.en-fr.align_in -d -o -v -r > senseval2.fr-en.align_out
 $ fast_align/build/atools -i senseval2.en-fr.align_out -j senseval2.fr-en.align_out -c intersect > senseval2.en-fr.align_out_intersect
 
-# Run BabelAlign
+# Run BabAlign
 $ python3 babelalign.py -s wsd_data/senseval2.lem.txt \
                         -t senseval2.fr.lem.txt \
                         --idx wsd_data/senseval2.tagged.lemma.pos.tag_idx_list.txt \
