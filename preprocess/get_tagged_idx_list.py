@@ -5,10 +5,13 @@ import codecs
 from collections import defaultdict
 import re
 import subprocess
+import sys
 import csv
 import argparse
 
 def load_tagged_source(source):
+
+    csv.field_size_limit(sys.maxsize)
 
     tagged = open(source, "r", encoding="utf-8")
     tagged_tsv = csv.reader(tagged, delimiter="\t")
