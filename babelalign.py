@@ -50,10 +50,9 @@ def load_babelnet_lexicons(f_name, lang1, lang2):
     src_tgt_babelex = defaultdict(set)
     for line in babelex_lines:
         line = line.rstrip("\n")
-        i_id = line.split("\t")[0]
-        sense = line.split("\t")[1]
+        sense = line.split("\t")[0]
 
-        all_possible_lex = line.split("\t")[2:]
+        all_possible_lex = line.split("\t")[1:]
         src_possible_lex = []
         tgt_possible_lex = []
         for possible_lex in all_possible_lex:
@@ -92,7 +91,7 @@ def load_tagged_src_idx(f_name):
         tag_lines = tagf.readlines()
 
     tag_id_info = defaultdict(dict)
-    for count, tag_l in enumerate(tag_lines):
+    for tag_l in tag_lines:
         tag_l = tag_l.rstrip("\n")
         line_id = tag_l.split("\t")[0]
         idx = tag_l.split("\t")[1]

@@ -7,7 +7,6 @@ import re
 import subprocess
 import os
 import argparse
-import csv
 
 '''
 use local BabelNet java API (in chauvin) to extract lemma-bnsyn mapping and bnsyn-translation mapping
@@ -17,40 +16,29 @@ use local BabelNet java API (in chauvin) to extract lemma-bnsyn mapping and bnsy
 - need to change the file path/name in ExtractBabelSynsetIDs.java and ExtractBabelTranslations.java at /local/chauvin2/yixing1/BabelNet-4.0-local/
 '''
 
-def get_target_info(src_data):
+def get_target_info(idx_data):
 
-    tagged = open(src_data, "r", encoding="utf-8")
-    tagged_tsv = csv.reader(tagged, delimiter="\t")
+    with codecs.open(idx_data, "r", encoding="utf-8") as tagf:
+        tagged = tagf.readlines()
 
     # get all src focus word information
-    line_id = 0
-    tok_id = 0
     target_info = {}
-    for triple in tagged_tsv:
-        lemma = triple[0]
-        pos = triple[1]
-        i_id = triple[2]
-        if lemma == "<eos>":
-            line_id += 1
-            tok_id = 0
-        else:
-            if i_id == "x":
-                tok_id += 1
-                continue
-            else:
-                lemma_pos = lemma + " " + pos
-                target_info[i_id] = lemma_pos
-                tok_id += 1
+    for tag_l in tagged:
+        tag_l = tag_l.rstrip("\n")
+        i_id = tag_l.split("\t")[2]
+        lemma = tag_l.split("\t")[3]
+        pos = tag_l.split("\t")[4]
+        target_info[i_id] = lemma + " " + pos
                 
 
     return target_info
 
 
-def get_lemma_bn_map(target_info, src_data, lang, current_path):
+def get_lemma_bn_map(target_info, idx_data, lang, current_path):
 
     # work around path 
-    bn_in_name = ".".join(src_data.split("/")[-1].split(".")[:-1]) + ".in"
-    bn_out_name = ".".join(src_data.split("/")[-1].split(".")[:-1]) + ".out"
+    bn_in_name = ".".join(idx_data.split("/")[-1].split(".")[:-2]) + ".in"
+    bn_out_name = ".".join(idx_data.split("/")[-1].split(".")[:-2]) + ".out"
 
     java_in_f = codecs.open(bn_in_name, "w", encoding="utf-8")
 
@@ -83,9 +71,11 @@ def get_lemma_bn_map(target_info, src_data, lang, current_path):
         bnsyn_list = bnsyn_line.split("\t")[1].split(" ")
         bn_syn_dict[lemma] = bnsyn_list
 
+    '''
     # save lemma-BN_syn mapping
-    lemma_map = ".".join(src_data.split(".")[:-1]) + ".lemma_bnsyn_map.txt"
+    lemma_map = ".".join(idx_data.split(".")[:-2]) + ".lemma_bnsyn_map.txt"
     newf = codecs.open(lemma_map, "w", encoding="utf-8")
+    '''
 
     bn_syn_set = set()
     lemma_bnsyn_map = {}
@@ -101,11 +91,16 @@ def get_lemma_bn_map(target_info, src_data, lang, current_path):
                 bnsyn_list_pos.append(bnsyn)
                 bn_syn_set.add(bnsyn)
         lemma_bnsyn_map[lemma_pos] = bnsyn_list_pos
-        if bnsyn_list_pos == []:
-            line = i_id + "\t" + lemma_pos + "\t" + "NONE" + "\n"
-        else:
-            line = i_id + "\t" + lemma_pos + "\t" + " ".join(bnsyn_list_pos) + "\n"
-        newf.write(line)
+
+    '''
+    # write down lemma-BN_syn mapping
+    for lemma_pos, bnsyn_list_pos in lemma_bnsyn_map.items():
+        if bnsyn_list_pos != []:
+            line = lemma_pos + "\t" + " ".join(bnsyn_list_pos) + "\n"
+            newf.write(line)
+
+    newf.close()
+    '''
 
     rm_cmd = "rm -f " + bn_in_name
     subprocess.run(rm_cmd, shell=True)
@@ -115,11 +110,11 @@ def get_lemma_bn_map(target_info, src_data, lang, current_path):
     return bn_syn_set, lemma_bnsyn_map
 
 
-def get_bn_trans_map(bn_syn_set, src_data, current_path, src_lang, lang_list):
+def get_bn_trans_map(bn_syn_set, idx_data, current_path, src_lang, lang_list):
 
     # work around path 
-    bn_in_name = ".".join(src_data.split("/")[-1].split(".")[:-1]) + ".in"
-    bn_out_name = ".".join(src_data.split("/")[-1].split(".")[:-1]) + ".out"
+    bn_in_name = ".".join(idx_data.split("/")[-1].split(".")[:-1]) + ".in"
+    bn_out_name = ".".join(idx_data.split("/")[-1].split(".")[:-1]) + ".out"
 
     java_in_f = codecs.open(bn_in_name, "w", encoding="utf-8")
 
@@ -210,35 +205,30 @@ def main():
 
     parser = argparse.ArgumentParser(description="query BabelNet for all translations of source focus words")
 
-    parser.add_argument("-s", "--source", default="", help="tsv file for lemmatized tagged source side of the text with pos ({n, v, a, r, x} notations)") 
+    parser.add_argument("--idx", default="", help="index list of the source focus word (e.g. output of get_tagged_idx_list.py script)") 
     parser.add_argument("--l1", default="", help="language code of the source side")
     parser.add_argument("--l2", nargs="+", default="", help="(optional) list of language codes of the target side (can specify as many lanugages as you want (space-separated))")
 
     args = parser.parse_args()
 
-    source_name = args.source
-    mapping_name = ".".join(source_name.split(".")[:-1]) + ".bnsyn_lexicon_map.txt"
+    idx_name = args.idx
+    mapping_name = ".".join(idx_name.split(".")[:-2]) + ".bnsyn_lexicon_map.txt"
 
     bnsyn_trans_map = codecs.open(mapping_name, "w", encoding="utf-8")
 
-    target_info = get_target_info(source_name)
-    bn_syn_set, lemma_bnsyn_map = get_lemma_bn_map(target_info, source_name, args.l1, current_path)
+    target_info = get_target_info(idx_name)
+    bn_syn_set, lemma_bnsyn_map = get_lemma_bn_map(target_info, idx_name, args.l1, current_path)
 
-    all_bn_lexicons = get_bn_trans_map(bn_syn_set, source_name, current_path, args.l1, args.l2)
+    all_bn_lexicons = get_bn_trans_map(bn_syn_set, idx_name, current_path, args.l1, args.l2)
 
-    for i_id, lemma_pos in target_info.items():
-        if lemma_pos not in lemma_bnsyn_map: # not in current BabelNet version == not in new gold key file
-            continue
-        bnsyn_candidates = lemma_bnsyn_map[lemma_pos]
-        for bnsyn in bnsyn_candidates:
-            possible_bn_lex = all_bn_lexicons[bnsyn]
-            line = i_id + "\t" + bnsyn + "\t"
-            for lang, lemma_list in possible_bn_lex.items():
-                clean_lemma_list = clean_lemmas(lemma_list)
-                line_part = lang + ":" + ",".join(clean_lemma_list)
-                line += line_part + "\t"
-            line = line.rstrip("\t") + "\n"
-            bnsyn_trans_map.write(line)
+    for bnsyn, possible_bn_lex in all_bn_lexicons.items():
+        line = bnsyn + "\t"
+        for lang, lemma_list in possible_bn_lex.items():
+            clean_lemma_list = clean_lemmas(lemma_list)
+            line_part = lang + ":" + ",".join(clean_lemma_list)
+            line += line_part + "\t"
+        line = line.rstrip("\t") + "\n"
+        bnsyn_trans_map.write(line)
 
     bnsyn_trans_map.close()
  

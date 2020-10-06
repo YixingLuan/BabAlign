@@ -34,7 +34,7 @@ def load_tagged_source(source):
                 tok_id += 1
                 continue
             else:
-                line = str(line_id) + "\t" + str(tok_id) + "\t" + i_id + "\t" + lemma + "\n"
+                line = str(line_id) + "\t" + str(tok_id) + "\t" + i_id + "\t" + lemma + "\t" + pos + "\n"
                 id_f.write(line)
                 tok_id += 1
 
