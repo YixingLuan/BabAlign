@@ -121,7 +121,7 @@ Usage description:
 ```
 $ python3 get_babelmappings.py -h
 usage: get_babelmappings.py [-h]
-                            [-s SOURCE]
+                            [-idx IDX]
                             [--l1 L1] 
                             [--l2 L2 [L2 ...]]
 
@@ -129,20 +129,19 @@ Query BabelNet for all translations of source focus words.
 
 arguments:
   -h, --help       show this help message and exit
-  -s, --source     tsv file for lemmatized tagged source side of the text with pos ({n, v, a, r, x} notations)
+  --idx            index list of the source focus word (e.g. output of get_tagged_idx_list.py script)
   --l1             language code of the input data 
   --l2             (optional) list of language codes of the target side (can specify as many lanugages as you want (space-separated))
 ```
 
-The input data (--source) is the same data used for `get_tagged_idx_list.py`.
+The input data (--idx) is the output from `get_tagged_idx_list.py`.
 
 If `--l2` is not given, it will store all translations from all languages in BabelNet.
 When the number of source focus words is large, specifying `--l2` is recommended to avoid out-of-memory issue.
 
-This script will produce 2 output files as follows:
+This script will produce the following file:
 
 ```
-*.lemma_bnsyn_map.txt    -  list of all possible BabelNet synset ids for source lemmas (Not used in the following processes)
 *.bnsyn_lexicon_map.txt  -  list of all possible BabelNet translations (Used in combine_input.py and babelalign.py)
 ```
 
@@ -282,7 +281,7 @@ $ python3 preprocess/get_lemma_pos_from_treetagger.py -i OpenSubtitles.en-fr.fr 
 
 # Query BabelNet
 $ cd BabelNetQuery/
-$ python3 get_babelmappings.py -s wsd_data/senseval2.tagged.lemma.pos.tsv --l1 EN --l2 FR DE RU
+$ python3 get_babelmappings.py -idx wsd_data/senseval2.tagged.lemma.pos.tag_idx_list.txt --l1 EN --l2 FR DE RU
 $ cd ../
 
 # Create input data
