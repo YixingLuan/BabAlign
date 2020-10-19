@@ -149,7 +149,7 @@ To run this script, you have to go under `BabelNetQuery` directory as follows:
 
 ```
 $ cd BabelNetQuery
-$ python3 get_babelmappings.py -s source_tsv_file -l language_code
+$ python3 get_babelmappings.py --idx source_tsv_file --l1 src_language_code (--l2 tgt_language_codes)
 ```
 
 If you want to run `get_babelmappings.py` from different directory, you have to adjust paths in `line 69, 133`.
