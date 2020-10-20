@@ -198,11 +198,11 @@ def Babelex_backoff(target_word, tgt_tok_list, lemma_pos_dict, babel_translation
 
     else: # if cannot find babelex --> try it with partial matching
         for t_idx, target_word in enumerate(tgt_tok_list):
+            phrase_flag = 0
             if str(t_idx) in properly_aligned_ids:
                 continue
             if lemma_pos_dict[str(t_idx)][1] == "x":
                 continue
-            phrase_flag = 0
             for babel_t in babel_translations:
                 if target_word in babel_t:
                     tmp_target_word, new_tgt_idx_list = complete_match(str(t_idx), target_word, tgt_tok_list, lemma_pos_dict, babel_translations, properly_aligned_ids)
