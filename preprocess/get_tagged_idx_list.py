@@ -3,26 +3,21 @@
 
 import codecs
 from collections import defaultdict
-import re
-import subprocess
-import sys
-import csv
 import argparse
 
 def load_tagged_source(source):
 
-    csv.field_size_limit(sys.maxsize)
-
-    tagged = open(source, "r", encoding="utf-8")
-    tagged_tsv = csv.reader(tagged, delimiter="\t")
+    tagged_f = codecs.open(source, "r", encoding="utf-8")
+    tagged = tagged_f.readline()
 
     id_list = ".".join(source.split(".")[:-1]) + ".tag_idx_list.txt"
 
     id_f = codecs.open(id_list, "w", encoding="utf-8")
-
+    
     line_id = 0
     tok_id = 0
-    for triple in tagged_tsv:
+    while tagged:
+        triple = tagged.rstrip("\n").split("\t")
         lemma = triple[0]
         pos = triple[1]
         i_id = triple[2]
@@ -32,12 +27,14 @@ def load_tagged_source(source):
         else:
             if i_id == "x":
                 tok_id += 1
-                continue
             else:
                 line = str(line_id) + "\t" + str(tok_id) + "\t" + i_id + "\t" + lemma + "\t" + pos + "\n"
                 id_f.write(line)
                 tok_id += 1
 
+        tagged = tagged_f.readline()
+
+    tagged_f.close()
     id_f.close()
 
 
