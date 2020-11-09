@@ -212,6 +212,8 @@ def process_treetagger_output(tree_out_name, lang):
                 lemma = lemma.split("|")[0]
             if " " in lemma:
                 lemma = lemma.replace(" ", "_")
+            if "~" in lemma:
+                lemma = lemma.replace("~", "_")
             tree_out_lemma_line += lemma + " "
             tree_out_pos_line += pos + " "
 
