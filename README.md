@@ -1,6 +1,6 @@
 # BabAlign
 
-This repository includes the source code for BabAlign. <!-- used in our [semeval2020 paper](url). -->
+This repository includes the source code for BabAlign presented in our EMNLP2020 paper [Improving Word Sense Disambiguation with Translations](https://www.aclweb.org/anthology/2020.emnlp-main.332/).
 
 BabAlign is a precise knowledge-based word alignment algorithm using both an existing alignment tool and translations from BabelNet.
 It first biases the alignment predictions of the base aligner by BabelNet translations. 
@@ -316,5 +316,18 @@ $ python3 babelalign.py -s wsd_data/senseval2.lem.txt \
 ## References
 
 ```
-TBD
+@inproceedings{luan-etal-2020-improving,
+    title = "Improving Word Sense Disambiguation with Translations",
+    author = "Luan, Yixing  and
+      Hauer, Bradley  and
+      Mou, Lili  and
+      Kondrak, Grzegorz",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.332",
+    pages = "4055--4065",
+}
 ```
