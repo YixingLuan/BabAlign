@@ -91,16 +91,20 @@ def combine_for_alignment(src_lines, tgt_lines, bitxt_src, bitxt_tgt, src_tgt_ba
         s_t_line = s_line + " ||| " + t_line + "\n"
         newf.write(s_t_line)
 
+    empty = ["", " ", "  ", "   ", "    "]
     for s_line, t_line in zip(bi_src_lines, bi_tgt_lines):
         s_line = s_line.rstrip("\n")
         s_line = s_line.rstrip("\r")
         t_line = t_line.rstrip("\n")
         t_line = t_line.rstrip("\r")
-        s_t_line = s_line + " ||| " + t_line + "\n"
+        if s_line not in empty and t_line not in empty:
+            s_t_line = s_line + " ||| " + t_line + "\n"
         newf.write(s_t_line)
 
-
     alpha = re.compile('[a-zA-Z]+')
+    kanji = regex.compile(r"\p{Han}+")
+    kata = regex.compile(r"\p{Katakana}+")
+    hira = regex.compile(r"\p{Hiragana}+")
     for s_lex, t_lex_set in src_tgt_babelex.items():
         if s_lex == "" or s_lex == " ":
             continue
@@ -108,7 +112,7 @@ def combine_for_alignment(src_lines, tgt_lines, bitxt_src, bitxt_tgt, src_tgt_ba
             for t_lex in t_lex_set:
                 if t_lex == "" or t_lex == " ": # sometimes empty token is included
                     continue
-                if alpha.match(t_lex):
+                if alpha.match(t_lex) or kanji.match(t_lex) or kata.match(t_lex) or hira.match(t_lex):
                     s_t_line = s_lex + " ||| " + t_lex + "\n"
 
                     newf.write(s_t_line)
