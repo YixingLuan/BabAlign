@@ -11,17 +11,20 @@ import argparse
 def process_input_for_treetagger(f_name):
     # use @ as a sentencial marker
 
-    with codecs.open(f_name, "r", encoding="utf-8") as f:
-        it_sentences = f.readlines()
+    with open(f_name, "r") as f: # don't use codecs to avoid sentence spliting with unicode
+        sentences = f.readlines()
 
     tree_in_name = f_name + ".tree_in"
     tree_out_name = f_name + ".tree_out"
 
     with codecs.open(tree_in_name, "w", encoding="utf-8") as newf:
-        for sent in it_sentences:
-            sent = sent.replace("@", "ATMARK")
+        for sent in sentences:
+            # deal with undesired separator (often in noisy text like OpenSubtitles)
+            for sep in ["\v", "\x0b", "\f", "\x0c", "\x1c", "\x1d", "\x1e", "\x85", "\u2028", "\u2029"]:
+                sent = sent.replace(sep, " ")
+            sent = sent.replace("@SEPARATOR@", "@PLACEHOLDER@")
             newf.write(sent)
-            newf.write("@\n") # insert this to indicate each sentence for TreeTagger output processing
+            newf.write("@SEPARATOR@\n") # insert this to indicate each sentence for TreeTagger output processing
 
     print("preprocess: done")
 
@@ -66,54 +69,15 @@ def process_treetagger_output(tree_out_name, lang):
     treetagger_outputs = []
     tree_output = []
 
-    # marker to indicate the end of sentence
-    if lang.upper() == "EN":
-        marker1 = "@\tSYM\t@" # PenTreeBank tagset
-        marker2 = "@\tPRP\t@" # BNC tagset
-    elif lang.upper() == "IT":
-        marker = "@\tSYM\t@"
-    elif lang.upper() == "DE":
-        marker = "@\tXY\t@"
-    elif lang.upper() == "ES":
-        marker = "@"
-    elif lang.upper() == "FR":
-        marker = "@"
-    elif lang.upper() == "RU":
-        marker = "@\t-\t@"
+    while out:
+        out = out.rstrip("\n")
+        if out.split("\t")[0] == "@SEPARATOR@":
+            treetagger_outputs.append(tree_output)
+            tree_output = []
+        else:
+            tree_output.append(out)
 
-    if lang.upper() == "EN":
-        while out:
-            out = out.rstrip("\n")
-            if out == marker1 or out == marker2:
-                treetagger_outputs.append(tree_output)
-                tree_output = []
-            else:
-                tree_output.append(out)
-
-            out = f.readline()
-    
-    if lang.upper() in ["IT", "DE", "RU"]:
-        while out:
-            out = out.rstrip("\n")
-            if out == marker:
-                treetagger_outputs.append(tree_output)
-                tree_output = []
-            else:
-                tree_output.append(out)
-
-            out = f.readline()
-
-    if lang.upper() in ["ES", "FR"]:
-        while out:
-            out = out.rstrip("\n")
-            if out.split("\t")[0] == marker:
-                treetagger_outputs.append(tree_output)
-                tree_output = []
-            else:
-                tree_output.append(out)
-
-            out = f.readline()
-
+        out = f.readline()
 
     print("read: done")
 
@@ -129,12 +93,10 @@ def process_treetagger_output(tree_out_name, lang):
             token = out.split("\t")[0]
             raw_pos = out.split("\t")[1]
             lemma = out.split("\t")[2]
-            if token == "ATMARK":
-                lemma = "@"
+            if token == "@PLACEHOLDER@":
+                lemma = "@SEPARATOR@"
             if lemma == "<unknown>" or lemma == "@card@":
                 lemma = token
-            if token != "ATMARK" and "ATMARK" in token:   
-                lemma = lemma.replace("ATMARK", "@")
 
             if lang.upper() == "EN":
                 if raw_pos in ["NN0", "NN1", "NN2", "NP0"]: # noun or name
