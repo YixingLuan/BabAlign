@@ -114,7 +114,7 @@ This script will produce lemmatized source text (raw text) and POS text ({n, v, 
 ### [get_babelmappings.py](https://github.com/YixingLuan/BabAlign/blob/master/BabelNetQuery) - Querying BabelNet to obtain possible translations. 
 
 After you download the local BabelNet java API and place the API directory (named `BabelNet-API-4.0.1`) under `BabelNetQuery` directory, you can run `get_babelmappings.py` to query possible translations. 
-It will call `ExtractBabelSynsetIDs.java` and `ExtractBabelSynsetIDs.java` to query the stored BabelNet API.
+It will call `ExtractBabelSynsetIDs.java` and `ExtractBabelTranslations.java` to query the stored BabelNet API.
 
 Usage description:
 
